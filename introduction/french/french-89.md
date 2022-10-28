@@ -2,7 +2,7 @@
 
 ![french](/vision-lk/introduction/photos/french-89.png)
 
-## French Revolution
+## Bicentennial of the French Revolution
 
 I took part in the ceremony of the Bicentennial of the French Revolution (1789 - 1989) held in Colombo.  Attending the ceremony were Professor Cyril Ponnamperuma and Professor Kapila Dahanayake from the IFS.
 
