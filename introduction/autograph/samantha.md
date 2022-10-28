@@ -1,7 +1,7 @@
-> [introduction](/vision-lk/introduction)
-
-![candle](/vision-lk/introduction/photos/samantha-90.png)
+> [autograph](/vision-lk/introduction/autograph)
 
 ## The Country We Should Develop
 
 This is the entry made by my colleague Samantha De Silva in my autograph from the IFS.
+
+![candle](/vision-lk/introduction/photos/samantha-90.png)
