@@ -1,6 +1,6 @@
 > [background](/vision-lk/background)
 
-![systems](/vision-lk/photos/redundancy.png)
+![systems](/vision-lk/photos/classification.png)
 
 ## Systems
 
