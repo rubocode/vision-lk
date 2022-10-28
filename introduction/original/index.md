@@ -5,7 +5,7 @@
 ## Original Draft
 
 > I like to see a man proud of the country in which he lives.
-> I like to see a man live so that his country will be proud of him.
+> I like to see a man live so that his country will be proud of him.  
 > **Abraham Lincoln**
 
 I began this draft soon after the constitution crisis in 2018.
