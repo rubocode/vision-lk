@@ -5,5 +5,6 @@
 ## Systems
 
 * [Order](order)
+* [Classification](classification)
 * [Principles](principles)
 * [Values](values)
