@@ -1,4 +1,4 @@
-> [autograph](/vision-lk/introduction)
+> [autograph](/vision-lk/introduction/autograph)
 
 ![candle](/vision-lk/introduction/photos/abhaya-90.png)
 
