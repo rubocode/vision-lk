@@ -1,7 +1,7 @@
 > This is a work in progress...  
 > [ruboware](/)
 
-![vision-lk](photos/vision-lk.png)
+![vision-lk](photos/jacobus.png)
 
 ## Vision Sri Lanka
 
