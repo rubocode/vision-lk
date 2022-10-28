@@ -4,6 +4,6 @@
 
 ## Enlightenment
 
-* [Page 1](/vision-lk/introduction/photos/enlightenment-1.png)
-* [Page 2](/vision-lk/introduction/photos/enlightenment-2.png)
-* [Page 3](/vision-lk/introduction/photos/enlightenment-3.png)
+* [Page 1](/vision-lk/introduction/photos/page-1.png)
+* [Page 2](/vision-lk/introduction/photos/page-2.png)
+* [Page 3](/vision-lk/introduction/photos/page-3.png)
