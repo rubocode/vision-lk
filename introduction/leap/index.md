@@ -4,7 +4,7 @@
 
 ## Leap
 
-> To become truly great, one has to stand with people, not above them.
+> To become truly great, one has to stand with people, not above them.  
 > **Montesquieu**
 
 Take the leap!
