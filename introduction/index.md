@@ -1,6 +1,6 @@
 > [home](/vision-lk)
 
-![introduction](/vision-lk/photos/vision-lk.png)
+![introduction](/vision-lk/photos/galle-face.png)
 
 ## Introduction
 
