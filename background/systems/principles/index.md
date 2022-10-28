@@ -1,3 +1,3 @@
-> [systems](/ruchira-lk/background/systems)
+> [systems](/vision-lk/background/systems)
 
 ## Principles
