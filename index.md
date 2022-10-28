@@ -1,4 +1,5 @@
-> [ruboware](/) \| This is a work in progress...
+> This is a work in progress...  
+> [ruboware](/)
 
 ![vision-lk](photos/vision-lk.png)
 
