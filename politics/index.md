@@ -1,5 +1,5 @@
 > [home](/vision-lk)
 
-![politics](/ruchira-lk/photos/politics.png)
+![politics](/vision-lk/photos/politics.png)
 
 ## Politics
