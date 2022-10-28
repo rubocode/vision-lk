@@ -4,7 +4,7 @@
 
 ## Enlightenment
 
-> The noblest pleasure is the joy of understanding.
+> The noblest pleasure is the joy of understanding.  
 > **Leonardo Da Vinci**
 
 This is a set of notes I made on September 12, 1993 in the wee hours of the morning.
