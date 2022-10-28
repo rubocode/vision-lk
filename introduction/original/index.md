@@ -2,7 +2,7 @@
 
 ![original](/vision-lk/introduction/photos/vision-lk.png)
 
-## Original
+## Original Draft
 
 > I like to see a man proud of the country in which he lives.  
 > I like to see a man live so that his country will be proud of him.  
