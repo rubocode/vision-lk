@@ -1,4 +1,4 @@
-> [french](/vision-lk/introduction)
+> [french](/vision-lk/introduction/french)
 
 ![french](/vision-lk/introduction/photos/french-89.png)
 
