@@ -2,7 +2,7 @@
 
 ![autograph](/vision-lk/introduction/photos/cyril-90.png)
 
-## Autograph 1990
+## Autograph
 
 > It is the fate of kings to do men good and be hated for it.  
 > **Antisthenes**
