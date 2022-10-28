@@ -10,6 +10,7 @@
 
 * [Introduction](introduction)
 * [Background](background)
+* [Politics](politics)
 * [Diagnosis](diagnosis)
 * [Vision](vision)
 * [Guidance](guidance)
