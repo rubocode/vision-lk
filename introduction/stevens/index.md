@@ -4,4 +4,4 @@
 
 ## Stevens Institute of Technology
 
-Stevens [www.stevens.edu](https://www.stevens.edu) is my alma mater.
+Stevens ([www.stevens.edu](https://www.stevens.edu)) is my alma mater.
