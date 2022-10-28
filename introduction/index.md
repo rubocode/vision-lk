@@ -11,5 +11,5 @@
 * [Autograph](autograph)
 * [French Revolution](french)
 * [Enlightenment](enlightenment)
-* [Original Draft](original)
+* [Original](original)
 * [Leap](leap)
