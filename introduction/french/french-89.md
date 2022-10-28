@@ -9,5 +9,3 @@ I took part in the ceremony of the Bicentennial of the French Revolution (1789 -
 On my left is the first Executive President of Sri Lanka, President J.&nbsp;R.&nbsp;Jayewardene.
 On my right is the first woman Prime Minister in the world Mrs. Sirimavo Bandaranaike.
 The French Ambassador was also in attendance.
-
-While I was at [Stevens](stevens), I made use of the opportunity to join a course of study titled Old Regime and the French Revolution.
