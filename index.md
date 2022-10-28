@@ -13,5 +13,3 @@
 * [Diagnosis](diagnosis)
 * [Vision](vision)
 * [Guidance](guidance)
-* [Goals](goals)
-* [Action](action)

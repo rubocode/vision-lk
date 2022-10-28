@@ -1,3 +1,0 @@
-> [home](/vision-lk)
-
-## Goals
