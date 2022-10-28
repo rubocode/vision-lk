@@ -4,4 +4,4 @@
 
 ## Old Regime and the French Revolution
 
-While I was at [Stevens](https://www.stevens.edu/), I made use of the opportunity to study a course on the Old Regime and the French Revolution.
+While I was at [Stevens](../stevens), I made use of the opportunity to study a course on the Old Regime and the French Revolution.
