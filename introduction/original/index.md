@@ -8,6 +8,6 @@
 > I like to see a man live so that his country will be proud of him.  
 > **Abraham Lincoln**
 
-I began this draft soon after the constitution crisis in 2018.
+I began this draft soon after the constitutional crisis in 2018.
 The principles were clarified first, on January 25, 2019.
 The problem areas were documented on October 18, 2019.
