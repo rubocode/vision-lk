@@ -9,6 +9,7 @@
 > **Niccolo Machiavelli**
 
 * [Introduction](introduction)
+* [Background](background)
 * [Diagnosis](diagnosis)
 * [Vision](vision)
 * [Guidance](guidance)
