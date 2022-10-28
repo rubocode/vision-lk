@@ -1,4 +1,4 @@
-> [disciplines](/vision-lk/background/interests)
+> [disciplines](/vision-lk/background/disciplines)
 
 ## Psychology
 
