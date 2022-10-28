@@ -4,4 +4,4 @@
 
 ## The Country We Should Develop
 
-This is the entry made by my colleague Samantha De Silva in my autograph from the IFS.
+This entry was made by Samantha De Silva &mdash; my IFS colleague.

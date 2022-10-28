@@ -4,4 +4,4 @@
 
 ## Serve Our Country
 
-This is the entry made by my colleague Abhayagiri Liyanaarachchi in my autograph from the IFS.
+This entry was made by Abhayagiri Liyanaarachchi &mdash; my IFS colleague.
