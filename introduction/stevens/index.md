@@ -4,4 +4,4 @@
 
 ## Stevens Institute of Technology
 
-Stevens ([www.stevens.edu](https://www.stevens.edu)) is my alma mater.
+I completed my undergraduate studies at Stevens ([www.stevens.edu](https://www.stevens.edu)) in 1996.
