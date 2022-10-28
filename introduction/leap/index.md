@@ -4,7 +4,7 @@
 
 ## Leap
 
-> It is always easier to fight for one's principles than to live up to them.  
-> **Alfred Adler**
+> To become truly great, one has to stand with people, not above them.
+> **Montesquieu**
 
 Take the leap!
