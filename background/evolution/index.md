@@ -1,5 +1,5 @@
 > [background](/vision-lk/background)
 
-![evolution](/vision-lk/photos/andrew.png)
+![evolution](/vision-lk/photos/kandy.png)
 
 ## Evolution
