@@ -4,5 +4,5 @@
 
 ## Journey
 
-> A journey of a thousand miles begins with a single step.
+> A journey of a thousand miles begins with a single step.  
 > **Lao Tzu**
