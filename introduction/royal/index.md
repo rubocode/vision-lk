@@ -1,6 +1,6 @@
 > [introduction](/vision-lk/introduction)
 
-![royal](/vision-lk/photos/royal.png)
+![royal](/vision-lk/introduction/photos/royal.png)
 
 ## Royal College
 

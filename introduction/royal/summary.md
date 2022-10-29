@@ -1,5 +1,5 @@
 > [royal](/vision-lk/introduction/royal)
 
-![summary](/vision-lk/photos/summary.png)
+![summary](/vision-lk/introduction/photos/summary.png)
 
 ## Summary Report

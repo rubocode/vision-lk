@@ -1,5 +1,5 @@
 > [royal](/vision-lk/introduction/royal)
 
-![a-level](/vision-lk/photos/a-level.png)
+![a-level](/vision-lk/introduction/photos/a-level.png)
 
 ## G.C.E. (A/L)
