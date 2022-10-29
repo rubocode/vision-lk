@@ -4,6 +4,9 @@
 
 ## Mindsets
 
+> To be able to integrate multiple mindsets and to view things with a fresh set of eyes is truly a blessing.
+> **Ruchira Bomiriya**
+
 * [Buddhism](buddhism)
 * [Christianity](christianity)
 * [Taoism](taoism)
