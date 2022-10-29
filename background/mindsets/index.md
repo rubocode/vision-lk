@@ -8,6 +8,7 @@
 > To be able to switch between them at will is pure heaven.  
 > **Ruchira Bomiriya**
 
+* [Introduction](introduction)
 * [Buddhism](buddhism)
 * [Christianity](christianity)
 * [Taoism](taoism)
