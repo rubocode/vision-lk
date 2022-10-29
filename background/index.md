@@ -1,6 +1,6 @@
 > [home](/vision-lk)
 
-![background](/vision-lk/photos/white-house.png)
+![background](/vision-lk/photos/peace.png)
 
 ## Background
 
