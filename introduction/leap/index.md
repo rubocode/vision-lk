@@ -9,4 +9,6 @@
 
 We cannot see ourselves developed and in peace unless we intend to be developed and play our part in achieving world peace.
 
+We can't live in a well unto ourselves.
+
 Take the leap!
