@@ -9,3 +9,4 @@
 
 * [Samantha De Silva](samantha)
 * [Abhayagiri Liyanaarachchi](abhaya)
+* [Professor Cyril Ponnamperuma](cyril)
