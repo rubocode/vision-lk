@@ -6,5 +6,6 @@
 
 * [Buddhism](buddhism)
 * [Christianity](christianity)
+* [Taoism](taoism)
 * [Stoicism](stoicism)
 * [Marxism](marxism)
