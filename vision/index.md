@@ -1,5 +1,5 @@
 > [home](/vision-lk)
 
-![vision](/vision-lk/photos/leap.png)
+![vision](/vision-lk/photos/peace.png)
 
 ## Vision
