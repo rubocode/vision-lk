@@ -1,5 +1,5 @@
 > [home](/vision-lk)
 
-![guidance](/vision-lk/photos/steps.png)
+![guidance](/vision-lk/photos/just.png)
 
 ## Guidance
