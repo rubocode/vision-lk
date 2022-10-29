@@ -11,4 +11,4 @@ We cannot see ourselves developed and in peace unless we intend to be developed 
 
 We can't live in a well unto ourselves.
 
-Take the leap!
+Make the leap!
