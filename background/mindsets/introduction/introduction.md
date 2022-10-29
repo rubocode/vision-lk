@@ -1,3 +1,3 @@
-> [mindsets](/vision-lk/backgrounds/mindsets)
+> [mindsets](/vision-lk/background/mindsets)
 
 ## Introduction
