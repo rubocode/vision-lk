@@ -1,6 +1,6 @@
 > [introduction](/vision-lk/introduction)
 
-![french](/vision-lk/introduction/photos/leaders-89.png)
+![french](/vision-lk/photos/french.png)
 
 ## French Revolution
 
