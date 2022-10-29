@@ -5,6 +5,7 @@
 ## Mindsets
 
 > To be able to integrate multiple mindsets and to view things with a fresh set of eyes is truly a blessing.
+> To be able to switch between them at will is pure heaven.
 > **Ruchira Bomiriya**
 
 * [Buddhism](buddhism)
