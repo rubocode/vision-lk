@@ -8,7 +8,6 @@
 > Ask what you can do for your country.  
 > **John F. Kennedy**
 
-* [Royal College](royal)
 * [Autograph](autograph)
 * [French Revolution](french)
 * [Enlightenment](enlightenment)
