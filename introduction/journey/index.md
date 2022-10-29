@@ -1,6 +1,6 @@
 > [introduction](/vision-lk/introduction)
 
-![journey](/vision-lk/photos/air-lanka-1993.png)
+![journey](/vision-lk/introduction/photos/air-lanka-93.png)
 
 ## Journey
 
