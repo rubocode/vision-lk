@@ -1,6 +1,6 @@
 > [introduction](/vision-lk/introduction)
 
-![leap](/vision-lk/photos/peace.png)
+![leap](/vision-lk/photos/just.png)
 
 ## Leap
 
