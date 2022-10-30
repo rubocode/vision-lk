@@ -4,8 +4,8 @@
 
 ## Leap
 
-> To become truly great, one has to stand with people, not above them.  
-> **Montesquieu**
+> The note of the perfect personality is not rebellion, but peace.  
+> **Oscar Wilde**
 
 We cannot see ourselves developed and in peace unless we intend to be developed and play our part towards peace.
 
