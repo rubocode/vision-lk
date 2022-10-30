@@ -2,7 +2,7 @@
 
 ![ifs](/vision-lk/photos/microscope.png)
 
-## IFS
+## Institute of Fundamental Studies
 
 * [Sri Lanka: A Lost Revolution?](lost)
 * [War and Peace in Sri Lanka](war-and-peace)
