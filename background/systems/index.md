@@ -4,6 +4,7 @@
 
 ## Systems
 
+* [Purpose](purpose)
 * [Order](order)
 * [Classification](classification)
 * [Principles](principles)
