@@ -4,7 +4,7 @@
 
 ## French Revolution
 
-> Poverty of the parent of revolution and crime.  
+> Poverty is the parent of revolution and crime.  
 > **Aristotle**
 
 * [Bicentennial of the French Revolution (1789-1989)](french-89)
