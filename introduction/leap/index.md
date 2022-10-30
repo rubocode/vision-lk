@@ -4,8 +4,8 @@
 
 ## Leap
 
-> There is a wonderful mythical law of nature that the three things we crave most in life — happiness, freedom and peace of mind — are always attained by giving them to someone else.  
-> **Peyton C. March**
+> To become truly great, one has to stand with people, not above them.  
+> **Montesquieu**
 
 We cannot see ourselves developed and in peace unless we intend to be developed and play our part towards peace.
 
