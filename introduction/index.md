@@ -9,6 +9,7 @@
 > **John F. Kennedy**
 
 * [Autograph](autograph)
+* [Royal College](royal)
 * [French Revolution](french)
 * [Enlightenment](enlightenment)
 * [Journey](journey)
