@@ -9,4 +9,4 @@
 
 Returning from USA to Sri Lanka, via Paris.
 
-* [In Paris](paris)
+* [Paris](paris)
