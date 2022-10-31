@@ -1,5 +1,5 @@
 > [politics](/vision-lk/politics)
 
-![leadership](/vision-lk/photos/jacobus.png)
+![leadership](/vision-lk/photos/manju.png)
 
 ## Leadership
