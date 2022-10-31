@@ -6,3 +6,7 @@
 
 > To become truly great, one has to stand with people, not above them.  
 > **Montesquieu**
+
+* [Leadership](leadership)
+* [Meritocracy](meritocracy)
+* [Governance](governance)
