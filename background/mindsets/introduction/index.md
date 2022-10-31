@@ -10,6 +10,8 @@
 > That is the journey.  
 > **Ruchira Bomiriya**
 
+It is useful to understand the following concepts when comparing the different historical mindsets under consideration.  They tackle these notions differently.
+
 * [Nature and the Universe](nature-and-the-universe)
 * [Cause and Effect](cause-and-effect)
 * [Free Will](free-will)
