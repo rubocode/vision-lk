@@ -14,7 +14,7 @@ It is useful to understand the following concepts when comparing the different h
 
 * [Nature and the Universe](nature-and-the-universe)
 * [Cause and Effect](cause-and-effect)
-* [Free Will](free-will)
+* [God and Free Will](god-and-free-will)
 * [Account in the Sky](account-in-the-sky)
 * [Meritocracy and Grace](meritocracy-and-grace)
 * [Purpose of Life](purpose-of-life)
