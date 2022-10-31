@@ -1,4 +1,4 @@
-> [ifs](/ruchira-lk/introduction/french/ifs)
+> [ifs](/vision-lk/introduction/french/ifs)
 
 ![rohan](/vision-lk/introduction/photos/rohan.png)
 
