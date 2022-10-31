@@ -2,8 +2,8 @@
 
 ## Systems
 
-> Those people who think they know everything are a great annoyance to those of us who do.  
-> **Isaac Asimov**
+> The universe is real, but you can't see it. You have to imagine it.  
+> **Alexander Calder**
 
 Systems are about **order!** Some systems are natural, others are designed by humans.
 
