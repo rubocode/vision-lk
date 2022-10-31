@@ -1,5 +1,5 @@
 > [politics](/vision-lk/politics)
 
-![governance](/vision-lk/photos/liberty.png)
+![governance](/vision-lk/photos/just.png)
 
 ## Governance
