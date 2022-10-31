@@ -8,3 +8,7 @@
 > We are the ones we have been waiting for.
 > We are the change that we seek.  
 > **Barack Obama**
+
+* [Ethnicity](ethnicity)
+* [Youth](youth)
+* [Poverty](poverty)
