@@ -1,5 +1,7 @@
 > [mindsets](/vision-lk/background/mindsets)
 
+![introduction](/vision-lk/photos/mode.png)
+
 ## Introduction
 
 > A mindset is a conceptual framework with which to interpret and evaluate reality and experience.
