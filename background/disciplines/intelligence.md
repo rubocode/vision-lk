@@ -2,6 +2,9 @@
 
 ## Intelligence
 
+> The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.  
+> **F. Scott Fitzgerald**
+
 Intelligence is about **how we judge!**  It is the **potential to acquire and apply knowledge**.  It can alternatively be thought of as the **ability to learn and decide**.
 
 The way the brain acquires information and the way the brain makes decisions is now understood to be genetically derived.  This is pretty consistent over the lifetime of an individual.  The architecture of the brain is similar to the architecture of a CPU of a computer.  The **Myers Briggs Type Indicator (MBTI)** suggests 16 generic brain architectures.

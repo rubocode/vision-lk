@@ -2,6 +2,9 @@
 
 ## Philosophy
 
+> The unexamined life is not worth living.  
+> **Socrates**
+
 Philosophy is about **how we think!**  It is concerned with the **questions** of life.
 What do we know?  How do we know that?  Why are things are the way they are?
 Are we sure about that?
