@@ -8,5 +8,5 @@
 > **Montesquieu**
 
 * [Leadership](leadership)
-* [Meritocracy](meritocracy)
 * [Governance](governance)
+* [Meritocracy](meritocracy)
