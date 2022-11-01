@@ -1,3 +1,3 @@
-> [potential](/vision-lk/vision/paradise)
+> [potential](/vision-lk/vision/potential)
 
 ## Paradise
