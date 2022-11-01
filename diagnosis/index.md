@@ -11,4 +11,5 @@
 
 * [Symptoms](symptoms)
 * [Causes](causes)
+* [Remedies](remedies)
 
