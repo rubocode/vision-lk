@@ -1,4 +1,4 @@
-> [introduction](/vision-lk/background/mindsets/introduction)
+> [questions](/vision-lk/background/mindsets/questions)
 
 ## Nature and the Universe
 

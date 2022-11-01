@@ -13,8 +13,10 @@
 It is useful to understand the following concepts when comparing the different historical mindsets under consideration.  They tackle these notions differently.
 
 * [Nature and the Universe](nature-and-the-universe)
+* [God](god)
 * [Cause and Effect](cause-and-effect)
-* [God and Free Will](god-and-free-will)
+* [Free Will](free-will)
 * [Account in the Sky](account-in-the-sky)
-* [Meritocracy and Grace](meritocracy-and-grace)
+* [Meritocracy](meritocracy)
+* [Grace](grace)
 * [Purpose of Life](purpose-of-life)
