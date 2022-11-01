@@ -6,5 +6,7 @@
 > **Socrates**
 
 * [Questions](questions)
+* [Dynamics](dynamics)
+* [Liberation](liberation)
 * [Individualism](individualism)
 * [Collectivism](collectivism)
