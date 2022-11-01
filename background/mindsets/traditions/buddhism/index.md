@@ -7,11 +7,13 @@
 > unless it agrees with your own reason and your own common sense.  
 > **Buddha**
 
-Buddha focused on the dynamics — dhamma — that one needs to understand as the gateway to truth.
+Buddha focused on the dynamics — dharma — that one needs to understand as the gateway to truth.
+
+Dharma is essentially the practice of virtue and discipline.
 
 He asked his disciples to not worry about the beginning and the end, but to understand how things work.
 
-You needed to practice the dhamma as the path to enlightenment.
+The attainment of this understanding is called enlightenment.
 
 ### Essentials
 
