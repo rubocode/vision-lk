@@ -3,5 +3,5 @@
 ## Modes
 
 * [Competition](competition)
-* [Collaboration](collaboration)
 * [Cooperation](cooperation)
+* [Collaboration](collaboration)
