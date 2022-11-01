@@ -8,6 +8,6 @@ What are we trying to accomplish in the end?
 
 If we don't know, aren't we just floating about looking for brownie points?
 
-Or, is there the purpose to life?
+Or, is there purpose to life?
 
 How do we find out?
