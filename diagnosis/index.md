@@ -9,6 +9,6 @@
 > We are the change that we seek.  
 > **Barack Obama**
 
-* [Ethnicity](ethnicity)
-* [Youth](youth)
-* [Poverty](poverty)
+* [Symptoms](symptoms)
+* [Causes](causes)
+
