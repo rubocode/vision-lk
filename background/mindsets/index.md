@@ -8,12 +8,5 @@
 > To be able to switch between them at will is pure heaven.  
 > **Ruchira Bomiriya**
 
-* [Questions](questions)
-
-### Essentials
-
-* [Buddhism](buddhism)
-* [Christianity](christianity)
-* [Taoism](taoism)
-* [Stoicism](stoicism)
-* [Marxism](marxism)
+* [Essentials](essentials)
+* [Traditions](traditions)

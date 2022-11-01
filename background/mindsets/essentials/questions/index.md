@@ -1,8 +1,6 @@
-> [mindsets](/vision-lk/background/mindsets)
+> [essentials](/vision-lk/background/mindsets/essentials)
 
-![introduction](/vision-lk/photos/mode.png)
-
-## Introduction
+## Questions
 
 > A mindset is a conceptual framework with which to interpret and evaluate reality and experience.
 > It is a lens through which you view the world.

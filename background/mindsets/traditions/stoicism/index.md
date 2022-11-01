@@ -1,4 +1,4 @@
-> [mindsets](/vision-lk/background/mindsets)
+> [traditions](/vision-lk/background/mindsets/traditions)
 
 ## Stoicism
 
