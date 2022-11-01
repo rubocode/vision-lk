@@ -4,7 +4,7 @@
 
 ### Consistency
 
-It would be rather diffcult if nature behaved erratically - or inconsistently.  When something is inexplicable, we still assume consistency &mdash; only that we don't know the exact nature of the consistency.  If nature worked arbitrarily then the concept of learning is out completely.  We would be improvising continuously.
+It would be rather diffcult if nature behaved erratically &mdash; or inconsistently.  When something is inexplicable, we still assume consistency &mdash; only that we don't know the exact nature of the consistency.  If nature worked arbitrarily then the concept of learning is out completely.  We would be improvising continuously.
 
 ### Nature
 
