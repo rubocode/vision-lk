@@ -2,12 +2,12 @@
 
 ## Purpose of Life
 
-If there is accounting of actions and consequences, how do we figure out what we should do?
+If there is accounting of actions and consequences, how do you figure out what you should do?
 
-What are we trying to accomplish in the end?
+What are you trying to accomplish in the end?
 
-If we don't know, aren't we just floating about looking for brownie points?
+If you don't know, aren't you just floating about looking for brownie points?
 
 Or, is there purpose to life?
 
-How do we find out?
+How do you find out?

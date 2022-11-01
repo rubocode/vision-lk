@@ -8,12 +8,8 @@ It would be rather diffcult if nature behaved erratically &mdash; or inconsisten
 
 ### Nature
 
-Sometimes, we tend to think of nature as separate from us.  Essentially, we imply that nature is there and we live in it.  In actuality, we are also part of nature.  In fact, there is nothing that is not nature.  Nature is principles.
+Sometimes, we tend to think of nature as separate from us.  Essentially, we imply that nature is there and we live in it.  In actuality, we are also part of nature.  In fact, there is nothing that is not nature.  Nature is principles of operation.
 
 ### Universe
 
-The universe is nature.  It is simply everything.  Universe is scope.
-
-### Earth
-
-Often, the scope of our conversations is confined to the Earth.
+The universe is nature.  It is simply everything.  Universe is scope of operations.
