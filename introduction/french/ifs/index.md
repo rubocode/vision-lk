@@ -1,6 +1,6 @@
 [french](/vision-lk/introduction/french)
 
-![ifs](/vision-lk/photos/microscope.png)
+![ifs](/vision-lk/photos/kandy.png)
 
 ## Institute of Fundamental Studies
 
