@@ -9,6 +9,9 @@
 > **Ruchira Bomiriya**
 
 * [Questions](questions)
+
+### Essentials
+
 * [Buddhism](buddhism)
 * [Christianity](christianity)
 * [Taoism](taoism)
