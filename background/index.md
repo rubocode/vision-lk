@@ -1,6 +1,6 @@
 > [home](/vision-lk)
 
-![backgroud](/vision-lk/photos/classification.png)
+![background](/vision-lk/photos/classification.png)
 
 ## Background
 
