@@ -6,7 +6,7 @@ Grace is when you are relieved of bad consequences of your actions.
 
 If there is perfect Karma, you have to suffer all your mistakes.
 
-If you can be pardoned for your bad decisions, there is room for improvement.
+If you can be pardoned for your bad choices, there is room for improvement.
 
 And, improvement is good.
 
