@@ -3,7 +3,7 @@
 ## Traditions
 
 * [Buddhism](buddhism)
-* [Christianty](christianity)
+* [Christianity](christianity)
 * [Marxism](marxism)
 * [Stoicism](stoicism)
 * [Taoism](taoism)
