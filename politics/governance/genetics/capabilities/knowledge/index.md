@@ -1,3 +1,3 @@
-> [capabilities](/visoon-lk/politics/governance/genetics/capabilities)
+> [capabilities](/vision-lk/politics/governance/genetics/capabilities)
 
 ## Knowledge
