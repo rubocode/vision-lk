@@ -2,7 +2,7 @@
 
 ![vision](/vision-lk/photos/peace.png)
 
-> For we walk by faith, not by sight.
+> For we walk by faith, not by sight.  
 > **2 Corinthians 5:7 KJV**
 
 * [Identity](identity)
