@@ -16,4 +16,4 @@ The universe is nature.  It is simply everything.  Universe is scope.
 
 ### Earth
 
-Often, the scope of our conversations are confined to the Earth.
+Often, the scope of our conversations is confined to the Earth.
