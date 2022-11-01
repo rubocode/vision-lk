@@ -1,6 +1,6 @@
 > [home](/vision-lk)
 
-![background](/vision-lk/photos/french.png)
+![backgroud](/vision-lk/photos/french.png)
 
 ## Background
 

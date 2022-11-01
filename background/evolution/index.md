@@ -1,7 +1,5 @@
 > [background](/vision-lk/background)
 
-![evolution](/vision-lk/photos/kandy.png)
-
 ## Evolution
 
 > Strategy is about longterm – it’s not about tomorrow and the next day.

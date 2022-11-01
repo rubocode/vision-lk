@@ -1,7 +1,5 @@
 > [background](/vision-lk/background)
 
-![purpose](/vision-lk/photos/education.png)
-
 ## Purpose
 
 > The meaning of life is to find your gift.  

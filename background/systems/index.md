@@ -1,7 +1,5 @@
 > [background](/vision-lk/background)
 
-![systems](/vision-lk/photos/classification.png)
-
 ## Systems
 
 * [Purpose](purpose)
