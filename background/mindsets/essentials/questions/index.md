@@ -5,7 +5,7 @@
 > A mindset is a conceptual framework with which to interpret and evaluate reality and experience.
 > It is a lens through which you view the world.
 > If you are so fortunate, you will find the absolute truth in your explorations in the wilderness.
-> That is the journey.  
+> The journey is the reward!
 > **Ruchira Bomiriya**
 
 It is useful to understand the following concepts when comparing the different historical mindsets under consideration.  They tackle these notions differently.
