@@ -6,9 +6,11 @@ Cause and effect implies that there are consequences.
 
 For thoughts and actions?
 
-A thought has consequences...
+Doesn't each thought have one or more consequences?
 
 But, are we accountable for our thoughts, or only actions?
+
+Or, is it only decisive thought that has consequences?
 
 Is everything simply driven by cause and effect?
 
