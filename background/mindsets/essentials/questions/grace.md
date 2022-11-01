@@ -24,7 +24,7 @@ Or could it be that someone else can provide grace for you without you asking fo
 
 What if everyone can be granted grace?
 
-What if it has been already been done for you?
+What if it has already been done for you?
 
 Wouldn't that keep you up at night?
 
