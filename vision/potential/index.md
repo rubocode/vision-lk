@@ -2,7 +2,7 @@
 
 ## Potential
 
-> Sri Lanka, a taste of paradise.
+> Sri Lanka, a taste of paradise.  
 > **Air Lanka**
 
 * [Power](power)
