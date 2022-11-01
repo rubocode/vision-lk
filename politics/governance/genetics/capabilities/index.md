@@ -1,4 +1,4 @@
-> [genetics](/vison-lk/politics/governance/genetics)
+> [genetics](/vision-lk/politics/governance/genetics)
 
 ## Capabilities
 
