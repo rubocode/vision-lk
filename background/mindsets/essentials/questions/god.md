@@ -12,4 +12,8 @@ Or do you think that absolutely everything is imperfect?
 
 Wouldn't that be perfect consistency?
 
-It's a journey!
+Isn't perfection God?
+
+Or, is it his work that is perfect?
+
+Is it both?
