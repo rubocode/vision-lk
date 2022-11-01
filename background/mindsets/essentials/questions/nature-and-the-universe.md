@@ -1,4 +1,4 @@
-> [questions](/vision-lk/background/mindsets/questions)
+> [questions](/vision-lk/background/mindsets/essentials/questions)
 
 ## Nature and the Universe
 
