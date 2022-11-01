@@ -6,6 +6,5 @@
 > **Thomas Paine**
 
 * [Genetics](genetics)
-* [Monarchy](monarchy)
-* [Aristocracy](aristocracy)
-* [Democracy](democracy)
+* [Modes](modes)
+* [Types](types)
