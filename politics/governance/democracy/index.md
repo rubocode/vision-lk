@@ -1,3 +1,3 @@
-> [governance](/vision-lk/politcs/governance)
+> [governance](/vision-lk/politics/governance)
 
 ## Democracy
