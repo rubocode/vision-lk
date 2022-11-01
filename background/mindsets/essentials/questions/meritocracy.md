@@ -6,7 +6,7 @@ If we have a perfect account in the sky, we can make people perfectly accountabl
 
 And that will be that.
 
-If we have free will and our actions have consequences and they keep track, we would love to know what will bring us good consequences.
+If we have free will and our actions have consequences and they are tracked perfectly, it would be beneficial to know what will bring us good consequences.
 
 Wouldn't you wonder what the best outcome would be in the end?
 
