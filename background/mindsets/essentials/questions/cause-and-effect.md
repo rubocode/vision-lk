@@ -4,7 +4,13 @@
 
 Cause and effect implies that there are consequences.
 
-But, is everything simply driven by cause and effect?
+For thoughts and actions?
+
+A thought has consequences...
+
+But, are we accountable for our thoughts, or only actions?
+
+Is everything simply driven by cause and effect?
 
 If that is the case, isn't everything just simply predetermined?
 
