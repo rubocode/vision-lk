@@ -1,7 +1,3 @@
-> [systems](/vision-lk/background/systems)
+> [systems](../)
 
 ## Order
-
-* [Definition](definition)
-* [Law](law)
-* [Economics](economics)

@@ -1,4 +1,4 @@
-> [questions](/vision-lk/background/mindsets/essentials/questions)
+> [questions](./)
 
 ## Purpose of Life
 

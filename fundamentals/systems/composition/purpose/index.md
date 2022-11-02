@@ -1,3 +1,3 @@
-> [composition](/vision-lk/background/systems/composition)
+> [composition](../)
 
 ## Purpose

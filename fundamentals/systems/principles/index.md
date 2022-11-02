@@ -1,3 +1,3 @@
-> [systems](/vision-lk/background/systems)
+> [systems](../)
 
 ## Principles

@@ -1,4 +1,4 @@
-> [background](/vision-lk/background)
+> [fundamentals](../)
 
 ## Purpose
 

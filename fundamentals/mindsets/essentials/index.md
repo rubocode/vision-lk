@@ -1,4 +1,4 @@
-> [mindsets](/vision-lk/background/mindsets)
+> [mindsets](../)
 
 ## Essentials
 

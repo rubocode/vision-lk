@@ -1,8 +1,8 @@
 > [home](/vision-lk)
 
-![background](/vision-lk/photos/classification.png)
+![background](../photos/classification.png)
 
-## Background
+## Fundamentals
 
 * [Systems](systems)
 * [Disciplines](disciplines)

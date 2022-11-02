@@ -1,4 +1,4 @@
-> [traditions](/vision-lk/background/mindsets/traditions)
+> [traditions](../)
 
 ## Buddhism
 

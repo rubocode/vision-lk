@@ -1,3 +1,3 @@
-> [background](/vision-lk/background)
+> [fundamentals](../)
 
 ## Culture

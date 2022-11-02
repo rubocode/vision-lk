@@ -1,4 +1,4 @@
-> [essentials](/vision-lk/background/mindsets/essentials)
+> [essentials](../)
 
 ## Dynamics
 
