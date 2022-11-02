@@ -2,8 +2,8 @@
 
 ## Cultural
 
-> And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.  
-> **Jeremiah 1:19 KJV**
+> Culture eats strategy for breakfast.
+> **Peter Drucker**
 
 * [Traditions](traditions)
 * [Values](values)
