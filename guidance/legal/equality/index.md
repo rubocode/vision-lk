@@ -1,3 +1,3 @@
-> [legal](/vison-lk/guidance/legal)
+> [legal](/vision-lk/guidance/legal)
 
 ## Equality
