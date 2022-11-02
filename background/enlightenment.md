@@ -1,6 +1,6 @@
-> [introduction](/vision-lk/introduction)
+> [background](./)
 
-![enlightenment](/vision-lk/photos/peace.png)
+![enlightenment](photos/peace.png)
 
 ## Enlightenment
 

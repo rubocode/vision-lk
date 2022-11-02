@@ -8,8 +8,8 @@
 > There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.  
 > **Niccolo Machiavelli**
 
-* [Introduction](introduction)
 * [Background](background)
+* [Fundamentals](fundamentals)
 * [Politics](politics)
 * [Diagnosis](diagnosis)
 * [Vision](vision)

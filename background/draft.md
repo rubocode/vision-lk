@@ -1,6 +1,6 @@
-> [introduction](/vision-lk/introduction)
+> [background](./)
 
-![original](/vision-lk/introduction/photos/vision-lk.png)
+![draft](photos/vision-lk.png)
 
 ## Original Draft
 

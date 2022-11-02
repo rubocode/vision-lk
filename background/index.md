@@ -1,12 +1,16 @@
-> [home](/vision-lk)
+> [home](../)
 
-![background](/vision-lk/photos/classification.png)
+![background](../photos/french.png)
 
 ## Background
 
-* [Systems](systems)
-* [Disciplines](disciplines)
-* [Culture](culture)
-* [Mindsets](mindsets)
-* [Evolution](evolution)
-* [Purpose](purpose)
+> Ask not what your country can do for you.  
+> Ask what you can do for your country.  
+> **John F. Kennedy**
+
+* [French Revolution](french)
+* [Autograph](autograph)
+* [Enlightenment](enlightenment)
+* [Course](course)
+* [Original Draft](draft)
+
