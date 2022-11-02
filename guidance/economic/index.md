@@ -6,7 +6,7 @@
 > Only the individual thinks. Only the individual reasons. Only the individual acts.  
 > **Ludwig von Mises**
 
-* [Drives](drives)
+* [Motives](motives)
 * [Contentment](contentment)
 * [Improvement](improvement)
 

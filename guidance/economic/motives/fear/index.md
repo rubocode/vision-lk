@@ -1,4 +1,4 @@
-> [drives](/vision-lk/guidance/economic/drives)
+> [motives](/vision-lk/guidance/economic/motives)
 
 ## Fear
 
