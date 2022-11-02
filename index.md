@@ -8,13 +8,6 @@
 > There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things.  
 > **Niccolo Machiavelli**
 
-> And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.  
-> **Jeremiah 1:19 KJV**
-
-> චේතනාහං භික්ඛවේ කම්මං වදාමි.  
-> Intention drives action.  
-> **Buddha**
-
 * [Introduction](introduction)
 * [Background](background)
 * [Politics](politics)
