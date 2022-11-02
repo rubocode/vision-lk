@@ -1,6 +1,6 @@
 > [background](./)
 
-![french-1989](photos/french-89.png)
+![french](photos/french-89.png)
 
 ## Bicentennial of the French Revolution
 
