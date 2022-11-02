@@ -5,8 +5,8 @@
 > No theory, no plan, no system of government can assure the success of an enterprise.  Only people can do that.  
 > **Akio Morita**
 
-> “They will fight against you, But they shall not prevail against you. For I am with you," says the LORD, "to deliver you."  
-> **Jeremiah 1:19 NKJV**
+> But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.  
+> **Matthew 6:33 KJV**
 
 > චේතනාහං භික්ඛවේ කම්මං වදාමි.  
 > Intention drives action.  
