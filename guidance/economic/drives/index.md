@@ -1,4 +1,4 @@
-> [economic](/vison-lk/guidance/economic)
+> [economic](/vision-lk/guidance/economic)
 
 ## Drives
 
