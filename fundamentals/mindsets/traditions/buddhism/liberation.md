@@ -1,4 +1,4 @@
-> [buddhism](../)
+> [buddhism](./)
 
 ## Liberation
 
