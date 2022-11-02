@@ -10,7 +10,7 @@
 
 * [French Revolution](french)
 * [Autograph](autograph)
-* [Enlightenment](enlightenment)
+* [Insight](insight)
 * [Course](course)
 * [Original Draft](draft)
 
