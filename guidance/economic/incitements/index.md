@@ -1,6 +1,6 @@
 > [economic](/vision-lk/guidance/economic)
 
-## Motives
+## Incitements
 
 * [Fear](fear)
 * [Desire](desire)
