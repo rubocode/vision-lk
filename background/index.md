@@ -1,5 +1,7 @@
 > [home](../)
 
+![background](../photos/french.png)
+
 ## Background
 
 > Ask not what your country can do for you.  
