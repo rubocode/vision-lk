@@ -1,4 +1,4 @@
-> [cultural](/vision-lk/guidance/cultural)
+> [cultural](../)
 
 ## Leadership
 

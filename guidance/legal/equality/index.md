@@ -1,4 +1,4 @@
-> [legal](/vision-lk/guidance/legal)
+> [legal](../)
 
 ## Equality
 

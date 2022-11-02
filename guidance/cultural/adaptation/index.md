@@ -1,3 +1,3 @@
-> [cultural](/vision-lk/guidance/cultural)
+> [cultural](../)
 
 ## Adaptation
