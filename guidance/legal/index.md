@@ -3,6 +3,6 @@
 ## Legal
 
 * [Equality](equality)
+* [Universality](universality)
 * [Justice](justice)
-* [Fairplay](fairplay)
 
