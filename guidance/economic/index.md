@@ -1,4 +1,4 @@
-> [guidance](/vision-lk/guidance)
+> [guidance](../)
 
 ## Economic
 

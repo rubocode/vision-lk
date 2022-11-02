@@ -1,3 +1,7 @@
-> [economic](/vision-lk/guidance/economic)
+> [economic](../)
 
 ## Improvement
+
+* [Quality](quality)
+* [Efficiency](efficiency)
+* [Delight](delight)

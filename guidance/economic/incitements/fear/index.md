@@ -1,4 +1,4 @@
-> [incitements](/vision-lk/guidance/economic/incitements)
+> [incitements](../)
 
 ## Fear
 

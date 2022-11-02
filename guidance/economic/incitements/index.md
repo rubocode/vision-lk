@@ -1,4 +1,4 @@
-> [economic](/vision-lk/guidance/economic)
+> [economic](../)
 
 ## Incitements
 

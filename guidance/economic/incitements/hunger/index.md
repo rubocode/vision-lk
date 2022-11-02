@@ -1,3 +1,3 @@
-> [incitements](/vision-lk/guidance/economic/incitements)
+> [incitements](../)
 
 ## Hunger
