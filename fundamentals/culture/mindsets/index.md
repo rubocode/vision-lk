@@ -1,6 +1,6 @@
-> [mindsets](../)
+> [culture](../)
 
-## Traditions
+## Mindsets
 
 * [Buddhism](buddhism)
 * [Christianity](christianity)

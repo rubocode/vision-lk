@@ -1,4 +1,4 @@
-> [traditions](../)
+> [mindsets](../)
 
 ## Stoicism
 
