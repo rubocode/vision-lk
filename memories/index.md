@@ -1,7 +1,5 @@
 > [home](../)
 
-![memories](../photos/french.png)
-
 ## Memories
 
 > Ask not what your country can do for you.  
