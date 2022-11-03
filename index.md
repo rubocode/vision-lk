@@ -3,8 +3,8 @@
 
 ## Vision Sri Lanka
 
-> The first priority of leadership is to successfully navigate uncharted territory.  
-> **Ruchira Bomiriya**
+> A problem well stated is half solved.  
+> **Charles Kettering**
 
 * [Introduction](introduction)
 * [Memories](memories)
