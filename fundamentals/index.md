@@ -1,7 +1,5 @@
 > [home](/vision-lk)
 
-![background](../photos/classification.png)
-
 ## Fundamentals
 
 * [Systems](systems)
