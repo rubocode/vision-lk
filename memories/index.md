@@ -2,11 +2,11 @@
 
 ## Memories
 
-![memories](../photos/french.png)
-
 > Ask not what your country can do for you.  
 > Ask what you can do for your country.  
 > **John F. Kennedy**
+
+![memories](../photos/french.png)
 
 * [Royal College](royal)
 * [French Revolution](french)

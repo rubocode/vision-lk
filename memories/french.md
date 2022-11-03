@@ -2,10 +2,10 @@
 
 ## Bicentennial of the French Revolution
 
-![french](photos/french-89.png)
-
 > The only way to discover the limits of the possible is to go beyond them into the impossible.  
 > **Arthur C. Clarke**
+
+![french](photos/french-89.png)
 
 I took part in the ceremony of the Bicentennial of the French Revolution (1789 - 1989) held in Colombo.  Attending the ceremony were Professor Cyril Ponnamperuma and Professor Kapila Dahanayake from the IFS.
 

@@ -2,10 +2,10 @@
 
 ## Insight
 
-![insight](../photos/peace.png)
-
 > The noblest pleasure is the joy of understanding.  
 > **Leonardo Da Vinci**
+
+![insight](../photos/peace.png)
 
 This is a set of notes I made on September 12, 1993 in the wee hours of the morning.
 
