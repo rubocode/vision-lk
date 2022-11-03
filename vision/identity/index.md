@@ -1,4 +1,4 @@
-> [vision](/vision-lk/vision)
+> [vision](../)
 
 ## Identity
 

@@ -1,3 +1,3 @@
-> [identity](/vision-lk/vision/identity)
+> [identity](../)
 
 ## Geopolitical Identity

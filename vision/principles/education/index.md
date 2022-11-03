@@ -1,3 +1,3 @@
-> [principles](/vision-lk/vision/principles)
+> [principles](../)
 
 ## The Right Education
