@@ -1,0 +1,5 @@
+> [disciplines](../)
+
+## Philosophy
+
+* [Concisely](concisely)

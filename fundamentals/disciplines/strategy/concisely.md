@@ -1,6 +1,6 @@
-> [disciplines](./)
+> [strategy](./)
 
-## Strategy
+## Concisely
 
 > The essence of strategy is choosing what not to do.  
 > **Michael Porter**

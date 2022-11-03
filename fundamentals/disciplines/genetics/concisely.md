@@ -1,6 +1,6 @@
-> [disciplines](./)
+> [genetics](./)
 
-## Genetics
+## Concisely
 
 > A clone of Einstein wouldn't be stupid, but he wouldn't necessarily be any genius, either.  
 > **James D. Watson**

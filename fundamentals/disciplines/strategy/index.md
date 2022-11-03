@@ -1,0 +1,6 @@
+> [disciplines](../)
+
+## Strategy
+
+* [Concisely](concisely)
+

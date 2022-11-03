@@ -1,0 +1,5 @@
+> [disciplines](../)
+
+## Intelligence
+
+* [Concisely](concisely)

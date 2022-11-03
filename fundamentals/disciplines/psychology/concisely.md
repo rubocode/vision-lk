@@ -1,6 +1,6 @@
-> [disciplines](./)
+> [psychology](./)
 
-## Psychology
+## Concisely
 
 > Our life is what our thoughts make it.  
 > **Marcus Aurelius**
