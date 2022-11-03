@@ -6,6 +6,8 @@
 > A problem well stated is half solved.  
 > **Charles Kettering**
 
+![banner](photos/banner.png)
+
 * [Introduction](introduction)
 * [Memories](memories)
 * [Fundamentals](fundamentals)
