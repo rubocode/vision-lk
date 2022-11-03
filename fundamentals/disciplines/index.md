@@ -2,6 +2,7 @@
 
 ## Disciplines
 
+* [Genetics](genetics)
 * [Intelligence](intelligence)
 * [Philosophy](philosophy)
 * [Psychology](psychology)
