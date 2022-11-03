@@ -1,7 +1,5 @@
 > [memories](./)
 
-![insight](../photos/peace.png)
-
 ## Insight
 
 > The noblest pleasure is the joy of understanding.  

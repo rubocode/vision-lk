@@ -1,7 +1,5 @@
 > [memories](./)
 
-![french](photos/french-89.png)
-
 ## Bicentennial of the French Revolution
 
 > The only way to discover the limits of the possible is to go beyond them into the impossible.  
@@ -14,3 +12,5 @@ I took part in the ceremony of the Bicentennial of the French Revolution (1789 -
 On my left is the first Executive President of Sri Lanka, President J.&nbsp;R.&nbsp;Jayewardene.
 On my right is the first woman Prime Minister in the world Mrs.&nbsp;Sirimavo Bandaranaike.
 The French Ambassador was also in attendance.
+
+![french](photos/french-89.png)

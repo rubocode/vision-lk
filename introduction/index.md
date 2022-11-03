@@ -2,9 +2,7 @@
 
 ## Introduction
 
-These writings aim to envision an optimistic future for Sri Lanka.
-
-This timeline captures the events that sparked the motivation.
+These writings aim to envision an optimistic future for Sri Lanka.  This timeline captures the events that sparked the motivation.
 
 * [1988](1988)
 * [Institute of Fundamental Studies](ifs)
