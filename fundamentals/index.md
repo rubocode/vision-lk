@@ -2,6 +2,6 @@
 
 ## Fundamentals
 
-* [Disciplines](disciplines)
 * [Culture](culture)
+* [Disciplines](disciplines)
 * [Purpose](purpose)
