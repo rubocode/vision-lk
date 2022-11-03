@@ -7,7 +7,7 @@
 
 ![candle](photos/candle-90.png)
 
-Before I left for the USA from IFS, I collected autographs from my friends and colleagues at the IFS.  The one above was the first page written by Rohan Gunaratna.  A couple of other significant ones are given below.
+Before I left for the USA from IFS, I collected autographs from my friends and colleagues at the IFS.  The one above was the first page entry by **Rohan Gunaratna**.  A couple of other significant ones are given below.
 
 ### Samantha De Silva
 
