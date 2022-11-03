@@ -6,9 +6,7 @@ These writings aim to envision an optimistic future for Sri Lanka and outline a 
 
 It is the vision and not the strategy to achieve it. It does, however, define a unique conceptual framework of the problem space that facilitates effective solutions and strategy.  It helps you start with the end in mind with an understanding of why we chose that end.
 
-The material is technical and academic in posture yet aims to be practical in guiding outcomes with the long term in mind.  Therefore, it paints a rather high level picture to help visualize a positive future.
-
-The aim was to capture the essence of the ideas and concepts for easier grasp and clarity.  The intention was to establish a stable basis for discussion and refinement.
+The material is technical and academic in posture yet aims to be practical in guiding outcomes with the long term in mind.  Therefore, it paints a rather high level picture to help visualize a positive future.  The aim was to capture the essence of the ideas and concepts for easier grasp and clarity.  The intention was to establish a stable basis for discussion and refinement.
 
 This timeline captures the events that sparked the motivation to study the subject matter.
 
