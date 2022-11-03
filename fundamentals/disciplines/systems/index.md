@@ -3,9 +3,7 @@
 ## Systems
 
 * [Concisely](concisely)
-* [Composition](composition)
-* [Purpose](purpose)
-* [Order](order)
-* [Classification](classification)
-* [Principles](principles)
-* [Values](values)
+* [Essentials](essentials)
+* [Functionality](functionality)
+* [Design](design)
+* [Dynamics](dynamics)
