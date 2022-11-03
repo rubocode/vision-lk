@@ -2,7 +2,6 @@
 
 ## Fundamentals
 
-* [Systems](systems)
 * [Disciplines](disciplines)
 * [Culture](culture)
 * [Mindsets](mindsets)
