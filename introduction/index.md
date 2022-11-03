@@ -18,3 +18,5 @@ This timeline captures the events that sparked the motivation to study the subje
 * [2018](2018)
 * [Aragalaya](aragalaya)
 * [2022](2022)
+
+Let’s get to it!
