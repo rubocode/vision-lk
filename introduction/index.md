@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> A problem well stated is half solved.  ß
+> A problem well stated is half solved.  
 > **Charles Kettering**
 
 These writings aim to envision an optimistic future for Sri Lanka and outline a vision with the rationale to to substantiate it.  It elaborates the vision and not the strategy to achieve it. It does, however, define a unique conceptual framework of the problem space that facilitates effective solutions and strategy.  It helps you start with the end in mind with an understanding of why we chose that end.
