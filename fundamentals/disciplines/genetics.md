@@ -11,6 +11,6 @@ Capabilities belong to three high level categories — talents, skills and wisdo
 
 Raw intelligence does not improve over a lifetime, but wisdom — _the gathered and integrated knowledge_ — can and does increase.  The ability to learn is a function of intelligence and wisdom.  They inform each other.
 
-Genetics informs the development of personality — the way the brain perceives and judges thus determining optimal career choices and personal development over a lifetime among other things.
+Genetics informs the development of personality — the way the brain perceives and judges thus determining personal development over a lifetime and optimal career strategies among other things.
 
 This has serious implications for talent management and governance.  The gene pool establishes the identity and the unique advantage of a nation.
