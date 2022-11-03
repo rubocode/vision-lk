@@ -5,11 +5,9 @@
 > Once you make a decision, the universe conspires to make it happen.  
 > **Ralph Waldo Emerson**
 
-Before I left for the USA from IFS, I collected autographs from my friends and colleagues at the IFS.
-
-### Rohan Gunaratna
-
 ![candle](photos/candle-90.png)
+
+Before I left for the USA from IFS, I collected autographs from my friends and colleagues at the IFS.  The one above was the first page written by Rohan Gunaratna.  A couple of other significant ones are given below.
 
 ### Samantha De Silva
 
