@@ -1,4 +1,4 @@
-> [introduction]
+> [introduction](./)
 
 ## Institute of Fundamental Studies (IFS)
 
