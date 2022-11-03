@@ -9,9 +9,9 @@
 ![memories](../photos/french.png)
 
 * [Royal College](royal)
-* [French Revolution](french)
+* [Institute of Fundamentals Studies](ifs)
 * [Autograph](autograph)
 * [Insight](insight)
-* [Course](course)
+* [Stevens Institute of Technology](stevens)
 * [Vision Sri Lanka](vision-lk)
 * [Paradise](paradise)
