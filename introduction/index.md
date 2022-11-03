@@ -12,7 +12,7 @@ This timeline captures the events that sparked the motivation.
 * [Institute of Fundamental Studies](ifs)
 * [USA](usa)
 * [Stevens Institute of Technology](stevens)
-* [Wall Street](wall-street))
+* [Wall Street](wall-street)
 * [Sri Lanka](sri-lanka)
 * [2018](2018)
 * [Aragalaya](aragalaya)
