@@ -1,4 +1,4 @@
-> [diagnosis](/vision-lk/diagnosis)
+> [diagnosis](../)
 
 ## Symptoms
 

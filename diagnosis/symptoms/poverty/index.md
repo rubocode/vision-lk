@@ -1,3 +1,3 @@
-> [symptoms](/vision-lk/diagnosis/symptoms)
+> [symptoms](../)
 
 ## Poverty

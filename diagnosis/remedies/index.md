@@ -1,3 +1,3 @@
-> [diagnosis](/vision-lk/diagnosis)
+> [diagnosis](../)
 
 ## Remedies

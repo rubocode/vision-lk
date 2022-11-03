@@ -1,4 +1,4 @@
-> [causes](/vision-lk/diagnosis/causes)
+> [causes](../)
 
 ## Economic
 
