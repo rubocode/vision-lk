@@ -1,5 +1,7 @@
 > [memories](./)
 
+![vision-lk](photos/vision-lk.png)
+
 ## Vision Sri Lanka
 
 > I like to see a man proud of the country in which he lives.  
@@ -9,5 +11,3 @@
 I began this draft soon after the constitutional crisis in 2018.
 The principles were clarified first, on January 25, 2019.
 The problem areas were documented on October 18, 2019.
-
-![vision-lk](photos/vision-lk.png)
