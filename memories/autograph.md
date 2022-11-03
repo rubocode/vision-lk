@@ -1,9 +1,15 @@
 > [memories](./)
 
-![autograph](photos/candle-90.png)
-
 ## Autograph
 
-This was the first page of my autograph with the entry made by Rohan Gunaratna.  He was the Communications Officer at the Institute of Fundamental Studies.
+Before I left for the USA from IFS, I collected autographs from my friends and colleagues at the IFS.
 
-I was a Pre-University Research Associate there from 1989 to 1990.
+Here is a small sampling:
+
+![candle](photos/candle-90.png)
+
+![samantha](photos/samantha-90.png)
+
+![abhaya](photos/abhaya-90.png)
+
+![cyril](photos/cyril-90.png)

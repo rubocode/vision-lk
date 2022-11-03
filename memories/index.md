@@ -8,9 +8,11 @@
 > Ask what you can do for your country.  
 > **John F. Kennedy**
 
+* [Character Certificate](character)
+* [Summary Report](summary)
 * [French Revolution](french)
 * [Autograph](autograph)
 * [Insight](insight)
 * [Course](course)
-* [Original Draft](draft)
-
+* [Vision Sri Lanka](vision-lk)
+* [Paradise](paradise)
