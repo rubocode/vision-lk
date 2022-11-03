@@ -9,7 +9,7 @@
 * [Introduction](introduction)
 * [Memories](memories)
 * [Fundamentals](fundamentals)
-* [Politics](politics)
+* [Governance](governance)
 * [Diagnosis](diagnosis)
 * [Vision](vision)
 * [Guidance](guidance)
