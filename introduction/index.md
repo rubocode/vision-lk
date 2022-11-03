@@ -8,7 +8,7 @@ It is the vision and not the strategy to achieve it. It does, however, define a 
 
 The material is technical and academic in posture yet aims to be practical in guiding outcomes with the long term in mind.  Therefore, it paints a rather high level picture to help visualize a positive future.
 
-I have tried to capture the essence of the ideas and concepts for easier grasp and clarity.  It is meant to form a stable basis for discussion and refinement.
+The aim was to capture the essence of the ideas and concepts for easier grasp and clarity.  The intention was to establish a stable basis for discussion and refinement.
 
 This timeline captures the events that sparked the motivation to study the subject matter.
 
