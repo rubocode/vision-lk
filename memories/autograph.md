@@ -1,8 +1,8 @@
 > [memories](./)
 
-![candle](photos/candle-90.png)
-
 ## Autograph
+
+![candle](photos/candle-90.png)
 
 Before I left for the USA from IFS, I collected autographs from my friends and colleagues at the IFS.
 

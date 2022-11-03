@@ -1,8 +1,8 @@
 > [memories](./)
 
-![royal](../photos/it-day.png)
-
 ## Royal College
+
+![royal](../photos/it-day.png)
 
 ![character](photos/character.png)
 

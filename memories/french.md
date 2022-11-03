@@ -1,8 +1,8 @@
 > [memories](./)
 
-![french](photos/french-89.png)
-
 ## Bicentennial of the French Revolution
+
+![french](photos/french-89.png)
 
 > The only way to discover the limits of the possible is to go beyond them into the impossible.  
 > **Arthur C. Clarke**

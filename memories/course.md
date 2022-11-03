@@ -1,8 +1,8 @@
 > [memories](./)
 
-![course](photos/fall-95.png)
-
 ## Old Regime and the French Revolution
+
+![course](photos/fall-95.png)
 
 > The secret of freedom lies in educating people, whereas the secret of tyranny is in keeping them ignorant.  
 > **Maximilien Robespierre**

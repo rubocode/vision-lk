@@ -1,8 +1,8 @@
 > [memories](./)
 
-![insight](../photos/peace.png)
-
 ## Insight
+
+![insight](../photos/peace.png)
 
 > The noblest pleasure is the joy of understanding.  
 > **Leonardo Da Vinci**

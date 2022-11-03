@@ -1,8 +1,8 @@
 > [memories](./)
 
-![vision-lk](photos/vision-lk.png)
-
 ## Vision Sri Lanka
+
+![vision-lk](photos/vision-lk.png)
 
 > I like to see a man proud of the country in which he lives.  
 > I like to see a man live so that his country will be proud of him.  

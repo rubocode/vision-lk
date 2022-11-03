@@ -1,8 +1,8 @@
 > [introduction](./)
 
-![paradise](photos/paradise.png)
-
 ## Paradise
+
+![paradise](photos/paradise.png)
 
 > Sri Lanka, A taste of paradise!  
 > **Air Lanka**
