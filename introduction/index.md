@@ -3,7 +3,7 @@
 ## Introduction
 
 > The first priority of leadership is to successfully navigate uncharted territory.  
-> **Ruchira Bomiriya**
+> [**Ruchira Bomiriya**](/ruchira-bomiriya)
 
 ![peace](../photos/peace.png)
 
