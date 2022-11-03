@@ -1,6 +1,6 @@
 > [memories](./)
 
-![candle](photos/candle-90)
+![candle](photos/candle-90.png)
 
 ## Autograph
 
