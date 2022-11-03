@@ -1,4 +1,4 @@
-> [home](../)
+> [fundamentals](../)
 
 ## Governance
 

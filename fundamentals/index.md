@@ -4,4 +4,5 @@
 
 * [Culture](culture)
 * [Disciplines](disciplines)
+* [Governance](governance)
 * [Purpose](purpose)

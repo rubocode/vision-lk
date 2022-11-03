@@ -12,7 +12,6 @@
 * [Introduction](introduction)
 * [Memories](memories)
 * [Fundamentals](fundamentals)
-* [Governance](governance)
 * [Diagnosis](diagnosis)
 * [Vision](vision)
 * [Guidance](guidance)
