@@ -6,5 +6,5 @@
 * [Boundary](boundary)
 * [Resources](resources)
 * [Rules](rules)
-* [Constraints](constriants)
+* [Constraints](constraints)
 * [Quality](quality)
