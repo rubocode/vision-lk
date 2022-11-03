@@ -1,7 +1,5 @@
 > [home](../)
 
-![memories](../photos/french.png)
-
 ## Introduction
 
 These writings aim to envision an optimistic future for Sri Lanka.
