@@ -9,6 +9,5 @@
 * [Education](education)
 * [Activity](activity)
 * [Meritocracy](meritocracy)
-* [Leadership](leadership)
 * [Organization](organization)
-
+* [Leadership](leadership)
