@@ -1,12 +1,9 @@
-> This is a work in progress...  
-> [ruboware](/) \| [ruchira-bomiriya](/ruchira-bomiriya)
+![banner](photos/banner.png)
 
 ## Vision Sri Lanka
 
 > A problem well stated is half solved.  
 > **Charles Kettering**
-
-![banner](photos/banner.png)
 
 * [Introduction](introduction)
 * [Memories](memories)
