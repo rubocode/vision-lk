@@ -6,8 +6,7 @@
 > Ask what you can do for your country.  
 > **John F. Kennedy**
 
-* [Character Certificate](character)
-* [Summary Report](summary)
+* [Royal College](royal)
 * [French Revolution](french)
 * [Autograph](autograph)
 * [Insight](insight)
