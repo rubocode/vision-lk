@@ -9,7 +9,7 @@
 > **Niccolo Machiavelli**
 
 * [Introduction](introduction)
-* [Background](background)
+* [Memories](memories)
 * [Fundamentals](fundamentals)
 * [Politics](politics)
 * [Diagnosis](diagnosis)

@@ -1,4 +1,4 @@
-> [background](./)
+> [memories](./)
 
 ![draft](photos/vision-lk.png)
 

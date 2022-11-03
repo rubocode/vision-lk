@@ -1,6 +1,6 @@
-> [background](./)
+> [memories](./)
 
-![autograph-1990](photos/candle-90.png)
+![autograph](photos/candle-90.png)
 
 ## Autograph
 

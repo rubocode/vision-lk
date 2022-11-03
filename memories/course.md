@@ -1,6 +1,6 @@
-> [background](./)
+> [memories](./)
 
-![course-1995](photos/fall-95.png)
+![course](photos/fall-95.png)
 
 ## Old Regime and the French Revolution
 

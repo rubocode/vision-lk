@@ -1,8 +1,8 @@
 > [home](../)
 
-![background](../photos/french.png)
+![memories](../photos/french.png)
 
-## Background
+## Memories
 
 > Ask not what your country can do for you.  
 > Ask what you can do for your country.  

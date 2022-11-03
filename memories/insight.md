@@ -1,4 +1,4 @@
-> [background](./)
+> [memories](./)
 
 ![insight](../photos/peace.png)
 
