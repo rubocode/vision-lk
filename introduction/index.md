@@ -6,6 +6,7 @@ These writings aim to envision an optimistic future for Sri Lanka.  This timelin
 
 * [1988](1988)
 * [Institute of Fundamental Studies](ifs)
+* [French Revolution](french)
 * [USA](usa)
 * [Stevens Institute of Technology](stevens)
 * [Wall Street](wall-street)
