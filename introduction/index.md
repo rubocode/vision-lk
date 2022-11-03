@@ -9,7 +9,7 @@ These writings aim to envision an optimistic future for Sri Lanka and outline a 
 
 The material is technical and academic in posture yet aims to be practical in guiding outcomes with the long term in mind.  Therefore, it paints a rather high level picture to help visualize a positive future.  The aim was to capture the essence of the ideas and concepts for easier grasp and clarity.  The intention was to establish a stable basis for discussion and refinement.
 
-This timeline captures the events that sparked the motivation to study the subject matter.
+This timeline captures the events that sparked the motivation to study the subject matter.  The thinking process spanned over three decades.  Don’t take it lightly.
 
 * [1988](1988)
 * [Institute of Fundamental Studies](ifs)
