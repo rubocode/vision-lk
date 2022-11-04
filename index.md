@@ -1,6 +1,7 @@
 ![banner](photos/banner.png)
 
 ## Vision Sri Lanka
+> Work in progress…
 
 > A problem well stated is half solved.  
 > **Charles Kettering**
