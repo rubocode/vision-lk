@@ -5,8 +5,6 @@
 > A problem well stated is half solved.  
 > **Charles Kettering**
 
-> Work in progress…
-
 * [Introduction](introduction)
 * [Memories](memories)
 * [Fundamentals](fundamentals)
