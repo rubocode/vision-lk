@@ -4,8 +4,9 @@
 
 ## Timeline
 
-> The first priority of leadership is to successfully navigate uncharted territory.  
-> **Ruchira Bomiriya**
+> If you are working on something exciting that you really care about, you don't have to be pushed.  
+> The vision pulls you.  
+> **Steve Jobs**
 
 This timeline captures the events that sparked the motivation to study the subject matter.  The thinking process spanned over three decades.
 
