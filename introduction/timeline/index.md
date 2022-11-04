@@ -4,8 +4,6 @@
 
 ## Timeline
 
-This timeline captures the events that sparked the motivation to study the subject matter.  The thinking process spanned over three decades.  Don’t take it lightly.
-
 * [1988](1988)
 * [Institute of Fundamental Studies](ifs)
 * [French Revolution](french)
