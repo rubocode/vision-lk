@@ -1,6 +1,6 @@
 > [introduction](../)
 
-![peace](../photos/kandy.png)
+![peace](../photos/vision-lk.png)
 
 ## Timeline
 

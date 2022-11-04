@@ -1,6 +1,6 @@
 > [introduction](./)
 
-![peace](../photos/flag-lk.png)
+![peace](../photos/vision-lk.png)
 
 ## Concisely
 

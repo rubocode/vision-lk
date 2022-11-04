@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![galleface-93](../photos/galleface-93.png)
+
 ## Aragalaya
 
 President Gotabaya Rajapakse was unseated by the Aragalaya in the middle of 2022.

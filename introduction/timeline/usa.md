@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![flag-us](../photos/flag-us.png)
+
 ## USA
 
 In 1990, I was awarded a scholarship by Stevens Institute of Technology in the USA.  I had obtained three perfect scores in my achievement tests in Chemistry, Physics and Mathematics.

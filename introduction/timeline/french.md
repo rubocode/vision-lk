@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![liberty](../photos/liberty.png)
+
 ## French Revolution (1789-1989)
 
 The French Revolution transformed France from a Monarchy into a Democracy.  The French had played a significant role in the American struggle for independence from the British.  The Americans opted to go with a Democracy — a system — instead of a Monarchy.

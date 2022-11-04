@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![graduation](../photos/graduation.png)
+
 ## Stevens Institute of Technology
 
 My scholarship at Stevens covered most of my tuition cost.  I had to fund room and board.

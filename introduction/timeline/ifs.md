@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![french](../photos/french.png)
+
 ## Institute of Fundamental Studies (IFS)
 
 In 1989, I joined the IFS in Kandy as a Pre-University Research Associate.  I gained a particularly unique view of the situation at hand.

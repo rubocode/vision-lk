@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![ssb](../photos/ssb.png)
+
 ## Wall Street
 
 I joined the Wall Street icon Salomon Brothers right after graduation in 1996.

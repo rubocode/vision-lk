@@ -1,5 +1,7 @@
 > [introduction](./)
 
+![flag-lk](../photos/flag-lk.png)
+
 ## Sri Lanka
 
 Sri Lanka is a mixed blessing.  It is my home country and the weather is quite agreeable compared to the freezing decade in the USA.  I am also a first class citizen here.
