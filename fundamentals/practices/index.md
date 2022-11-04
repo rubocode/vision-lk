@@ -6,4 +6,5 @@
 * [Education](education)
 * [Management](management)
 * [Entrepreneurship](entrepreneurship)
+* [Spirituality](spirituality)
 * [Politics](politics)
