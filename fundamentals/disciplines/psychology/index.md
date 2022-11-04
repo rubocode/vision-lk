@@ -3,3 +3,5 @@
 ## Psychology
 
 * [Concisely](concisely)
+* [Personality](personality)
+

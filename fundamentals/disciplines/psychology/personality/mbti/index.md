@@ -1,3 +1,4 @@
 > [personality](../)
 
-## History
+## MBTI
+

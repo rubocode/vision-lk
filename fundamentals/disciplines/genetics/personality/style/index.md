@@ -1,3 +1,0 @@
-> [personality](../)
-
-## Style

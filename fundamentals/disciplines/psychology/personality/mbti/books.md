@@ -1,4 +1,4 @@
-> [genetics](./)
+> [mbti](./)
 
 ## Books
 
