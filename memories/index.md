@@ -1,12 +1,12 @@
 > [home](../)
 
+![memories](../photos/french.png)
+
 ## Memories
 
 > Ask not what your country can do for you.  
 > Ask what you can do for your country.  
 > **John F. Kennedy**
-
-![memories](../photos/french.png)
 
 * [Royal College](royal)
 * [Institute of Fundamentals Studies](ifs)
