@@ -3,3 +3,7 @@
 ## Genetics
 
 * [Concisely](concisely)
+
+* [Inheritance](inheritance)
+* [Personality](personality)
+* [Intelligence](intelligence)
