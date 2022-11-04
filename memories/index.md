@@ -10,6 +10,7 @@
 
 * [Royal College](royal)
 * [Institute of Fundamentals Studies](ifs)
+* [Rohan Gunaratna](rohan)
 * [Autograph](autograph)
 * [Insight](insight)
 * [Stevens Institute of Technology](stevens)
