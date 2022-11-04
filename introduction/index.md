@@ -4,8 +4,8 @@
 
 ## Introduction
 
-> Don’t find fault, find a remedy; anybody can complain.  
-> **Henry Ford**
+> It is better to light one candle than to complain about the darkness.  
+> **Swami Vivekananda**
 
 * [Concisely](concisely)
 * [Timeline](timeline)
