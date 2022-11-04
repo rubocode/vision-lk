@@ -7,4 +7,5 @@
 * [Management](management)
 * [Entrepreneurship](entrepreneurship)
 * [Spirituality](spirituality)
-* [Politics](politics)
+* [Governance](governance)
+
