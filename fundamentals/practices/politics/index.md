@@ -1,4 +1,3 @@
 > [practices](../)
 
-## Governance
-
+## Politics
