@@ -2,7 +2,7 @@
 
 ## Cultural
 
-> Culture eats strategy for breakfast.
+> Culture eats strategy for breakfast.  
 > **Peter Drucker**
 
 * [Traditions](traditions)
