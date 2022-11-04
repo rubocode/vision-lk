@@ -9,7 +9,7 @@
 > **John F. Kennedy**
 
 * [Royal College](royal)
-* [Institute of Fundamentals Studies](ifs)
+* [Institute of Fundamental Studies](ifs)
 * [Rohan Gunaratna](rohan)
 * [Autograph](autograph)
 * [Insight](insight)
