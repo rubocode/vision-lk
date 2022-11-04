@@ -16,5 +16,5 @@ A brief outline of events that shaped the thinking is given below.
 * [Timeline](timeline)
 
 [**Ruchira Bomiriya**](/ruchira-bomiriya)  
-_Nov 4, 2022_
+Nov 4, 2022
 
