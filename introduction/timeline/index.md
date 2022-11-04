@@ -1,7 +1,5 @@
 > [introduction](../)
 
-![peace](../photos/vision-lk.png)
-
 ## Timeline
 
 > If you are working on something exciting that you really care about, you don't have to be pushed.  
