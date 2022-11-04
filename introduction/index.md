@@ -4,8 +4,8 @@
 
 ## Introduction
 
-> The first priority of leadership is to successfully navigate uncharted territory.  
-> **Ruchira Bomiriya**
+> Don’t find fault, find a remedy; anybody can complain.  
+> **Henry Ford**
 
 These writings aim to envision an optimistic future for Sri Lanka and outline a vision with the rationale to substantiate it.  It defines a unique conceptual framework of the problem space that facilitates effective solutions and strategy.  It helps you begin with the end in mind with an understanding of why we chose that end.
 

@@ -4,6 +4,9 @@
 
 ## Timeline
 
+> The first priority of leadership is to successfully navigate uncharted territory.  
+> **Ruchira Bomiriya**
+
 This timeline captures the events that sparked the motivation to study the subject matter.  The thinking process spanned over three decades.
 
 * [1988](1988)
