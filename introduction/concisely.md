@@ -16,5 +16,7 @@ A brief outline of events that shaped the thinking is given below.
 * [Timeline](timeline)
 
 [Ruchira Bomiriya](/ruchira-bomiriya)  
-Nov 4, 2022
+Nov 4, 2022  
+Colombo
+
 
