@@ -4,8 +4,8 @@
 
 ## Rohan Gunaratna
 
-> Don't find fault, find a remedy; anybody can complain.  
-> **Henry Ford**
+> It is better to light one candle than to complain about the darkness.  
+> **Swami Vivekananda**
 
 Rohan was the Communications Officer at the IFS during my whole tenure at the IFS.  His autograph made a vital impression on me.
 
