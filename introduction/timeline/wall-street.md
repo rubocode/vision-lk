@@ -1,4 +1,4 @@
-> [introduction](./)
+> [timeline](./)
 
 ![ssb](../photos/ssb.png)
 

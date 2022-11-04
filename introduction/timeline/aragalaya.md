@@ -1,4 +1,4 @@
-> [introduction](./)
+> [timeline](./)
 
 ![galleface-93](../photos/galleface-93.png)
 

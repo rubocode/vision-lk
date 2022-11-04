@@ -1,4 +1,4 @@
-> [introduction](./)
+> [timeline](./)
 
 ![graduation](../photos/graduation.png)
 

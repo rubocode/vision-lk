@@ -1,4 +1,4 @@
-> [introduction](./)
+> [timeline](./)
 
 ![french](../photos/french.png)
 

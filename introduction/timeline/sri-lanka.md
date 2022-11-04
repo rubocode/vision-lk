@@ -1,4 +1,4 @@
-> [introduction](./)
+> [timeline](./)
 
 ![flag-lk](../photos/flag-lk.png)
 
