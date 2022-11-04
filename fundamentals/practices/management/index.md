@@ -1,3 +1,3 @@
-> [practices](practices)
+> [practices](../)
 
 ## Management
