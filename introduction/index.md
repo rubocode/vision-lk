@@ -8,7 +8,6 @@
 > **Swami Vivekananda**
 
 * [Concisely](concisely)
-
 * [Timeline](timeline)
 
 [Ruchira Bomiriya](/ruchira-bomiriya)  
