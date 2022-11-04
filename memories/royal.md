@@ -7,10 +7,6 @@
 > DISCE AUT DISCEDE  
 > **Learn or Depart**
 
-### Character Certificate
-
 ![character](photos/character.png)
-
-### Summary Report
 
 ![summary](photos/summary.png)
