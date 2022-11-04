@@ -10,7 +10,7 @@
 * [Concisely](concisely)
 * [Timeline](timeline)
 
-[**Ruchira Bomiriya**](/ruchira-bomiriya)
+[Ruchira Bomiriya](/ruchira-bomiriya)
 
 
 
