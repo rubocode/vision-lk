@@ -1,5 +1,5 @@
-> [ruboware](/) \| [contact](/ruchira-bomiriya) \>
-> This is a work in progress…
+> This is a work in progress…  
+> [ruboware](/) \| [contact](/ruchira-bomiriya)
 
 ![banner](photos/banner.png)
 
