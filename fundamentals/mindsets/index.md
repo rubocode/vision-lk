@@ -2,9 +2,7 @@
 
 ## Mindsets
 
-* [Essentials](essentials)
-* [Buddhism](buddhism)
-* [Christianity](christianity)
-* [Marxism](marxism)
-* [Stoicism](stoicism)
-* [Taoism](taoism)
+| [Individualist](individualist) | [Collectivist](collectivist) |
+| [Liberal](liberal) | [Conservative](conservative) |
+| [Theist](theist) | [Atheist](atheist) |
+

@@ -1,3 +1,0 @@
-> [buddhism](./)
-
-## God
