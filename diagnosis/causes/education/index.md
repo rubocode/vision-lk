@@ -2,8 +2,8 @@
 
 ## Education
 
-> Intention drives action.  
 > චේතනහං භික්ඛවේ කම්මං වදාමි.  
+> Intention drives action.  
 > **Buddha**
 
 If we don’t know where we are taking the country, how are we going to figure out what and how we should teach our kids.
