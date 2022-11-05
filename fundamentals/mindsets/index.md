@@ -8,5 +8,7 @@
 | [Capitalist](capitalist) | [Socialist](socialist) |
 | [Delegation](delegation) | [Concentration](concentration) |
 | [Fitness](fitness) | [Vulnerability](vulnerability) |
+| [Futuristic](futuristic) | [Nostalgic](nostalgic) |
+
 
 
