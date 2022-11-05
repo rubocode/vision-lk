@@ -5,7 +5,7 @@
 > To become truly great, one has to stand with people, not above them.  
 > **Montesquieu**
 
-* [Genetics](genetics)
+* [Talent](talent)
 * [Education](education)
 * [Meritocracy](meritocracy)
 * [Organization](organization)

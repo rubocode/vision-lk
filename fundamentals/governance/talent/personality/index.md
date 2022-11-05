@@ -1,4 +1,4 @@
-> [psychology](../)
+> [talent](../)
 
 ## Personality
 
