@@ -8,7 +8,7 @@
 
 Individualism takes the view that liberation is for the individual.  The society liberates individual by individual.
 
-All individualist traditions point to character and virtue as the way to liberation.  They also assume God or at least belief in a higher power.
+All individualist traditions point to character and virtue as the way to liberation.  They also assume God or at least believe in a higher power.
 
 This is true of Buddhism, Christianity, Stoicism and Taoism.
 
