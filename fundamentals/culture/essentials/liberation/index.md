@@ -6,7 +6,7 @@ Obviously, we don’t have it all great.  There are trials and sorrows.  We wond
 
 ### Spiritual Liberation
 
-Is there a higher level to existence.  Something above the fray.  Something noble.
+Is there a higher level to existence?  Something above the fray.  Something noble.
 
 There are many who claim to have liberated themselves.  Some even taught how to do it yourself.
 
