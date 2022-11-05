@@ -7,5 +7,6 @@
 | [Theist](theist) | [Atheist](atheist) |
 | [Capitalist](capitalist) | [Socialist](socialist) |
 | [Delegation](delegation) | [Concentration](concentration) |
+| [Fitness](fitness) | [Vulnerability](vulnerability) |
 
 
