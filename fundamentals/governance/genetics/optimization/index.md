@@ -1,3 +1,0 @@
-> [genetics](../)
-
-## Optimization

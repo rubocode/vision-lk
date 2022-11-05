@@ -1,3 +1,0 @@
-> [mbti](./)
-
-## Concisely
