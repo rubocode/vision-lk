@@ -6,6 +6,6 @@
 | [Liberal](liberal) | [Conservative](conservative) |
 | [Theist](theist) | [Atheist](atheist) |
 | [Capitalist](capitalist) | [Socialist](socialist) |
-| [Delegation](delegation) | [Concentration](concetration) |
+| [Delegation](delegation) | [Concentration](concentration) |
 
 
