@@ -2,7 +2,9 @@
 
 ## Causes
 
-* [Moral](moral)
-* [Economic](economic)
 * [Aspirational](aspirational)
-* [Genetics](genetics)
+* [Moral](moral)
+* [Cultural](cultural)
+* [Political](political)
+* [Economic](economic)
+* [Genetic](genetic)
