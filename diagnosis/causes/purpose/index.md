@@ -1,3 +1,7 @@
 > [causes](../)
 
 ## Purpose
+
+> The care of human life and happiness, and not their destruction, is the first and only object of good government.  
+> **Thomas Jefferson**
+
