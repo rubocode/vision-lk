@@ -2,8 +2,8 @@
 
 ## Action
 
-> Plans are worthless, but planning is everything.  
-> **Dwight Eisenhower**
+> Organizational effectiveness does not lie in that narrow minded concept called rationality. It lies in the blend of clearheaded logic and powerful intuition.  
+> **Henry Mintzberg**
 
 * [Democracy](democracy)
 * [Capitalism](capitalism)
