@@ -1,4 +1,3 @@
 > [causes](../)
 
-## Economic
-
+## Purpose

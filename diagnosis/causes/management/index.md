@@ -1,3 +1,3 @@
 > [causes](../)
 
-## Genetic
+## Management
