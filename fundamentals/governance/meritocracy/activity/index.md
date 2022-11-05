@@ -1,4 +1,4 @@
-> [governance](../)
+> [meritocracy](../)
 
 ## Activity
 

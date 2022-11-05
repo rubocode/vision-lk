@@ -7,7 +7,6 @@
 
 * [Genetics](genetics)
 * [Education](education)
-* [Activity](activity)
 * [Meritocracy](meritocracy)
 * [Organization](organization)
 * [Leadership](leadership)
