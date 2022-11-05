@@ -1,11 +1,12 @@
-> [home](/vision-lk)
+> [home](../)
 
 ## Fundamentals
 
-These topics are detailed in [Polymathy](/polymathy).
+> Resistance to the organized mass can be effected only by the man who is as well organized in his individuality as the mass itself.  
+> **Carl Gustav Jung**
 
-* [Culture](/polymathy/culture)
-* [Disciplines](/polymathy/disciplines)
-* [Practices](/polymathy/practices)
-* [Governance](/polymathy/governance)
-* [Purpose](/polymathy/purpose)
+* [Culture](culture)
+* [Disciplines](disciplines)
+* [Practices](practices)
+* [Governance](governance)
+* [Purpose](purpose)

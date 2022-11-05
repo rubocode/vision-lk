@@ -1,0 +1,3 @@
+> [buddhism](./)
+
+## Destination
