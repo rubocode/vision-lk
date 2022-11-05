@@ -7,7 +7,7 @@
 
 We, in Sri Lanka, have never sorted out the purpose of government.  The aristocracy was uneducated.
 
-It has been battle between families of different races, castes and social classes for power that has characterized our path since independence.
+It has been a battle among families of different races, castes and social classes for power that has characterized our path since independence.
 
 The old regime of Kandyan origin represented by the Bandaranaike family embraced Marxism.  Imagine a primarily **Buddhist Capitalist** class embracing **Atheist Marxism** just to capture power.  And one of them studied at Sorbonne in France.  Ever heard of the French Revolution while there?
 
