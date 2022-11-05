@@ -14,5 +14,5 @@
 * [Diagnosis](diagnosis)
 * [Vision](vision)
 * [Guidance](guidance)
-* [Strategy](strategy)
+* [Action](action)
 
