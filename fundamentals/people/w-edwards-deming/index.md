@@ -1,1 +1,0 @@
-## W. Edwards Deming

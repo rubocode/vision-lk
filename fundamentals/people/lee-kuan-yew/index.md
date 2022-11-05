@@ -1,1 +1,0 @@
-## Lee Kuan Yew

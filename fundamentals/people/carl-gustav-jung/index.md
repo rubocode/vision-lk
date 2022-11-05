@@ -1,1 +1,0 @@
-## Carl Gustav Jung

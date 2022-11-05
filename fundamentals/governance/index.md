@@ -1,4 +1,4 @@
-> [fundmentals](../)
+> [fundamentals](../)
 
 ## Governance
 
