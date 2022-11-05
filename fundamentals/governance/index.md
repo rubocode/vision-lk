@@ -10,5 +10,4 @@
 * [Meritocracy](meritocracy)
 * [Organization](organization)
 * [Leadership](leadership)
-
-
+* [Stability](stability)
