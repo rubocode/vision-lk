@@ -12,6 +12,6 @@ When the economy was opened in 1978, a push towards global education and English
 
 Now, we are teaching an indigenous curriculum (දේශීය චින්තනය). This was triggered by the mindsets cultivated during the ethnic war.  The winner’s culture will be forcefully fed to the populace.
 
-We have cultivated and glorified the uneducated and reaping an ugly crop.
+We have cultivated and glorified the uneducated and are reaping an ugly crop.
 
 It is going to get worse in the next decades.  Just take a peek at the middle school text books.
