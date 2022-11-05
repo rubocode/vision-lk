@@ -2,9 +2,11 @@
 
 ## Guidance
 
-> Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.  
-> **Margaret Mead**
+> Go wisely and slowly.  Those who rush stumble and fall.  
+> **William Shakespeare**
 
-* [Cultural](cultural)
-* [Legal](legal)
-* [Economic](economic)
+Make the decision to go with these choices and not their opposites.  Then don’t look back!
+
+* [Democracy](democracy)
+* [Capitalism](capitalism)
+* [Globalism](globalism)

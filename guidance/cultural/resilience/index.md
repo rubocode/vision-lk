@@ -1,3 +1,0 @@
-> [cultural](../)
-
-## Resilience
