@@ -2,7 +2,7 @@
 
 ## Education
 
-> චේතනහං භික්ඛවේ කම්මං වදාමි.  
+> චේතනාහං භික්ඛවේ කම්මං වදාමි.  
 > Intention drives action.  
 > **Buddha**
 
