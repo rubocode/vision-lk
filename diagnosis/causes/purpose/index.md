@@ -11,4 +11,4 @@ It has been battle between families of different races, castes and social classe
 
 The old regime of Kandyan origin represented by the Bandaranaike family embraced Marxism.  Imagine a primarily **Buddhist Capitalist** class embracing **Atheist Marxism** just to capture power.  And one of them studied at Sorbonne in France.  Ever heard of the French Revolution while there?
 
-The cognitive dissonance is mind boggling, to say the least.
+The cognitive dissonance is mind-boggling, to say the least.
