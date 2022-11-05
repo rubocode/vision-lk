@@ -1,4 +1,4 @@
-> [strategy](/polymathy/strategy)
+> [strategy](../)
 
 ## Kernel of Strategy
 

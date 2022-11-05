@@ -1,3 +1,3 @@
-> [kernel](/polymathy/strategy/kernel)
+> [kernel](../)
 
 ## Coherent Action
