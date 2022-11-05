@@ -1,3 +1,0 @@
-> [strategy](/polymathy/strategy)
-
-## Introduction
