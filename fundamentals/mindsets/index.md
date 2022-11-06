@@ -12,6 +12,7 @@
 | Economics | [Capitalist](capitalist) | [Socialist](socialist) |
 | Attitude | [Fitness](fitness) | [Vulnerability](vulnerability) |
 | Focus | [Futuristic](futuristic) | [Nostalgic](nostalgic) |
+| Value | [Freedom](freedom) | [Control](control) |
 
 
 
