@@ -4,9 +4,9 @@
 
 The problems are indicative of inequities affecting disadvantaged social segments.  Instead of minor improvements to the most troubled, a visionary social balance needs to be cultivated with a long term perspective.  The meritocracy needs to be designed deliberately and nurtured with great care.
 
-* [Ethnicity](ethnicity)
-* [Youth](youth)
-* [Poverty](poverty)
+* [Ethnic Separatism](ethnicity)
+* [Youth Unrest](youth)
+* [Poverty Aggravation](poverty)
 
 These three major categories existed even at the time I finished school in 1988.  We can easily see the current troubles through the same lens.
 
