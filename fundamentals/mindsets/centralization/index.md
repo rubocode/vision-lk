@@ -1,0 +1,3 @@
+> [mindsets](../)
+
+## Centralization

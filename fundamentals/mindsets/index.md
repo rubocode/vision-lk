@@ -6,7 +6,8 @@
 | [Liberal](liberal) | [Conservative](conservative) |
 | [Theist](theist) | [Atheist](atheist) |
 | [Capitalist](capitalist) | [Socialist](socialist) |
-| [Delegation](delegation) | [Concentration](concentration) |
+| [Distribution](distribution) | [Concentration](concentration) | 
+| [Delegation](delegation) | [Centralization](centralization) |
 | [Fitness](fitness) | [Vulnerability](vulnerability) |
 | [Futuristic](futuristic) | [Nostalgic](nostalgic) |
 
