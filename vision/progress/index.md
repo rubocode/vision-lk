@@ -1,3 +1,7 @@
 > [vision](../)
 
 ## Progress
+
+> If there is no struggle, there is no progress.  
+> **Frederick Douglass**
+
