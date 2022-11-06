@@ -1,3 +1,3 @@
-> [genetics](../)
+> [talent](../)
 
 ## Optimization

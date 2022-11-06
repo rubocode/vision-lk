@@ -1,4 +1,4 @@
-> [talent](../)
+> [capabilities](../)
 
 ## Personality
 
