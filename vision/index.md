@@ -11,7 +11,7 @@
 
 Our vision must help us make decisions when navigating challenges.  It helps us to know what our values are so that we can navigate intelligently.
 
-Our values guide us and these three values will guide with a timeless quality.  They will help navigate our current economic crisis as well as point us towards true north in the future.
+Our values guide us. These three values will guide with a timeless quality.  They are objectives at the same time they are values.  They will help navigate our current economic crisis as well as point us towards true north in the future.
 
 * [Peace](peace)
 * [Progress](progress)
