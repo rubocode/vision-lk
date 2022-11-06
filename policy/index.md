@@ -2,8 +2,9 @@
 
 ## Guiding Policy
 
-> Go wisely and slowly.  Those who rush stumble and fall.  
-> **William Shakespeare**
+> People judge you on your performance, so focus on the outcome.  
+> Be a yardstick of quality.  Some people aren't used to an environment where excellence is expected.  
+> **Steve Jobs**
 
 Make the decision to go with these choices and not their opposites.  Then don’t look back!
 
