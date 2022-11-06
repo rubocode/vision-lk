@@ -2,6 +2,6 @@
 
 ## Remedies
 
-* [Identity](identity)
 * [Principles](principles)
+* [Identity](identity)
 * [Potential](potential)
