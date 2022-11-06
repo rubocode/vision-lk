@@ -2,5 +2,7 @@
 
 ## Coherent Action
 
-> Organizational effectiveness does not lie in that narrow minded concept called rationality. It lies in the blend of clearheaded logic and powerful intuition.  
-> **Henry Mintzberg**
+> People judge you on your performance, so focus on the outcome.  
+> Be a yardstick of quality.  Some people aren't used to an environment where excellence is expected.  
+> **Steve Jobs**
+
