@@ -2,10 +2,8 @@
 
 ## Diagnosis
 
-> Change will not come if we wait for some other person or some other time.
-> We are the ones we have been waiting for.
-> We are the change that we seek.  
-> **Barack Obama**
+> The first priority of leadership is to successfully navigate uncharted territory.  
+> **Ruchira Bomiriya**
 
 * [Symptoms](symptoms)
 * [Causes](causes)
