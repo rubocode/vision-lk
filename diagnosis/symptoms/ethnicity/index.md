@@ -1,3 +1,4 @@
 > [symptoms](../)
 
-## Ethnicity
+## Ethnic Separatism
+
