@@ -2,14 +2,14 @@
 
 ## Mindsets
 
-| [Individualist](individualist) | [Collectivist](collectivist) |
-| [Liberal](liberal) | [Conservative](conservative) |
-| [Theist](theist) | [Atheist](atheist) |
-| [Capitalist](capitalist) | [Socialist](socialist) |
-| [Distribution](distribution) | [Concentration](concentration) | 
-| [Delegation](delegation) | [Centralization](centralization) |
-| [Fitness](fitness) | [Vulnerability](vulnerability) |
-| [Futuristic](futuristic) | [Nostalgic](nostalgic) |
+| **Sovereignity** | [Individualist](individualist) | [Collectivist](collectivist) |
+| **Philosophy** | [Liberal](liberal) | [Conservative](conservative) |
+| **Faith** | [Theist](theist) | [Atheist](atheist) |
+| **Economics** | [Capitalist](capitalist) | [Socialist](socialist) |
+| **Wealth** | [Distribution](distribution) | [Concentration](concentration) | 
+| **Power** | [Delegation](delegation) | [Centralization](centralization) |
+| **Attitude** | [Fitness](fitness) | [Vulnerability](vulnerability) |
+| **Focus** | [Futuristic](futuristic) | [Nostalgic](nostalgic) |
 
 
 
