@@ -1,4 +1,3 @@
 > [action](../)
 
-## Democracy
-
+## Meritocracy
