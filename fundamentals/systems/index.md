@@ -3,6 +3,6 @@
 ## Systems
 
 * [Essentials](essentials)
-* [Functionality](functionality)
 * [Design](design)
+* [Functionality](functionality)
 * [Dynamics](dynamics)
