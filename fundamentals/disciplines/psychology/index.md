@@ -16,10 +16,3 @@ Are they meaningful?
 What purpose do they serve?
 
 Psychology, ultimately, is life as we experience it.
-
-### Topics
-
-* [Personality Type](personality)
-
-<br/>
-**Above**: Psyche, the goddess of the soul is depicted with Eros, the god of love.  The Roman counterpart of Eros is Cupid.
