@@ -4,7 +4,7 @@
 
 | **Category** | **Democratic** | **Totalitarian** |
 | - | - | 
-| Sovereignity | [Individualist](individualist) | [Collectivist](collectivist) |
+| Sovereignty | [Individualist](individualist) | [Collectivist](collectivist) |
 | Philosophy | [Liberal](liberal) | [Conservative](conservative) |
 | Faith | [Theist](theist) | [Atheist](atheist) |
 | Wealth | [Distribution](distribution) | [Concentration](concentration) | 
