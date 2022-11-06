@@ -1,3 +1,3 @@
 > [talent](../)
 
-## Optimization
+## Skills
