@@ -13,6 +13,6 @@
 * [Fundamentals](fundamentals)
 * [Diagnosis](diagnosis)
 * [Vision](vision)
-* [Guidance](guidance)
-* [Action](action)
+* [Guiding Policy](policy)
+* [Coherent Action](action)
 

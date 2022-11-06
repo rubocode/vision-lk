@@ -1,6 +1,6 @@
 > [home](../)
 
-## Guidance
+## Guiding Policy
 
 > Go wisely and slowly.  Those who rush stumble and fall.  
 > **William Shakespeare**
