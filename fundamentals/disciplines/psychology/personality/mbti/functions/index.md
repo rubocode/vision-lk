@@ -11,3 +11,5 @@
 | Fe | [The Guide](fe) |
 | Fi | [The Conscience](fi) |
 
+**Source**: Hartzler, Gary & Hartzler, Margaret; _Functions of Type_
+
