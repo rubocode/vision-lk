@@ -9,10 +9,13 @@
 > Intention drives action.  
 > **Buddha**
 
-Our vision must help us make decisions when navigating challenges.  It helps us to know what our values are so that we can navigate intelligently.  Our values guide us. Our values must represent who we are and have a timeless quality.
+Our vision must help us make decisions when navigating challenges.  It helps us to know what our priorities and values are so that we can navigate intelligently.  They must represent who we are and have a timeless quality.
 
-* [Peace](peace)
-* [Contentment](progress)
+* [Purpose](purpose)
 * [Progress](progress)
+* [Peace](peace)
 
-They are objectives at the same time they are values.  We aim for peace as an objective in mapping out the future.  We also value peace over conflict in tackling a specific challenge.  They will help us navigate our current economic crisis as well as serve as true north for us in the future.
+The better we understand life’s purpose, individual purpose and the purpose of each institution, the better our effectiveness in rising up to the challenges.
+
+These three priorities apply at the individual, institutional and national level.  They will guide us through the current crisis as well as continue to show us true north in the future.
+ 
