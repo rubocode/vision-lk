@@ -12,9 +12,7 @@
 > Seek peace and pursue it.  
 > **Psalm 34:14 NKJV**
 
-We have been fighting for peace for decades.  It will never come through conquest and victory.  It will come through wisdom and compassion.
-
-What we must remember is that the goal is peace, not victory.  Victory does not guarantee peace, but peace itself is victory.
+We have been fighting for peace for decades.  It will never come through conquest and victory.  It will come through wisdom and compassion.  What we must remember is that the goal is peace, not victory.  Victory does not guarantee peace, but peace itself is victory.
 
 We need to remain a peaceful country internationally and our foreign policy needs to reflect that.  We need to stand up for what is right, at least on a case by case basis.  Nonalignment is a timid cop out.  If we are to deal peacefully and intelligently in international affairs, we need to understand the rest of the world.  This means creating global citizens who have depth and breadth.  Our education must be **globalist**.
 
