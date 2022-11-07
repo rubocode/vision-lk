@@ -5,7 +5,7 @@
 > **Strategist Mobilizer**  
 > Temperament: [Theorist](../temperament/theorist)  
 > Style: [In-Charge](../style/in-charge)  
-> Functions: [Te](../functions/te),
+> Function Stack: [Te](../functions/te),
 > [Ni](../functions/ni),
 > [Se](../functions/se),
 > [Fi](../functions/fi)
