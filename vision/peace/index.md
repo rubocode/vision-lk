@@ -8,7 +8,7 @@
 > **The Dhammapada, Verse 183**
 
 > Depart from evil and do good;  
-> Seek peace and pursue it.
+> Seek peace and pursue it.  
 > **Psalm 34:14 NKJV**
 
 We have been fighting for peace for decades.  It will never come through conquest and victory.  It will come through wisdom and compassion.
