@@ -9,3 +9,5 @@ The core needs are for mastery of concepts, knowledge, and competence.  People o
 ### Talents
 
 They prefer using their gifts of strategic analysis to approach all situations.  They consistently examine the relationship of the means to the overall vision and goal.  No strangers to complexity, theories, and models, they like to think of all possible contingencies and develop multiple plans for handling them.  They abstractly analyze a situation and consider previously unthought-of possibilities.  Researching, analyzing, searching for patterns, and developing hypothesis are quite likely to be their natural modus operandi.
+
+**Source**: Berens, Linda V.; _An Introduction to the 4 Temperaments_

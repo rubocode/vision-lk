@@ -9,3 +9,5 @@ The core needs are to have the freedom to act without hindrance and to see a mar
 ### Talents
 
 They tend to be gifted at employing the available means to accomplish and end.  Their creativity is revealed by the variety of solutions they come up with.  They are talented at using tools, whether the tool be language, theories, a paint brush, or a computer.  They tune into immediate sensory information and vary their actions according to the needs of the moment.  They are gifted at tactics.  They can easily read the situation at hand, instantly make decisions, and, if needed, take actions to achieve the desired outcome.
+
+**Source**: Berens, Linda V.; _An Introduction to the 4 Temperaments_

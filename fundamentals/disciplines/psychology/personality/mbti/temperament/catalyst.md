@@ -9,3 +9,6 @@ The core needs are for the meaning and significance that come from having a sens
 ### Talents
 
 They tend to be gifted at unifying diverse peoples and helping individuals realize their potential.  They build bridges between people through empathy and clarification of deeper issues.  They use these same skills to help people work through difficulties.  Thus, they can make excellent mediators, helping people and companies solve conflicts through mutual cooperation.  If working on a global level, they champion a cause.  If working on an individual level, they focus on growth and development of the person.
+
+**Source**: Berens, Linda V.; _An Introduction to the 4 Temperaments_
+
