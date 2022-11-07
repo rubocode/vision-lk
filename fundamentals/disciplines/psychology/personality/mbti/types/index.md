@@ -1,6 +1,6 @@
 > [mbti](../)
 
-## Type Code
+## Psychological Types
 
 | [Theorist](../temperament/theorist) | [ENTJ](entj) | [INTJ](intj) | [ENTP](entp) | [INTP](intp) |
 | [Catalyst](../temperament/catalyst) | [ENFJ](enfj) | [INFJ](infj) | [ENFP](enfp) | [INFP](infp) |
