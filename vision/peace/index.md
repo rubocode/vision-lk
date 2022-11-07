@@ -6,7 +6,7 @@
 > **George Washington**
 
 > සබ්බපාපස්ස අකරණං, කුසලස්ස උපසම්පදා   
-> සචිත්ත පරියෝදපනං, ඒතං බුද්ධාන සාසනං  
+> සචිත්ත පරියෝදපනං, ඒතං බුද්ධානුසාසනං  
 > “Refraining from all evil; attainment of what is good; cleansing of one’s thoughts”; this is the advice of the Awakened Ones.  
 > **The Dhammapada, Verse 183**
 
