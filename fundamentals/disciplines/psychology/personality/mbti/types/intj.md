@@ -2,12 +2,12 @@
 
 ## INTJ
 
-> **Conceptualizer Director**
-> Temperament: [Theorist](../temperament/theorist)
+> **Conceptualizer Director**. 
+> Temperament: [Theorist](../temperament/theorist)  
 > Style: [Chart-the-Course](../style/chart-the-course)  
-> Leading: [Ni](../functions/ni)
-> Supporting: [Te](../functions/te)
-> Relief: [Fi](../functions/fi)
+> Leading: [Ni](../functions/ni)  
+> Supporting: [Te](../functions/te)  
+> Relief: [Fi](../functions/fi)  
 > Aspirational: [Se](../functions/se)
 
 * Theme is strategizing, envisioning, and masterminding.
