@@ -11,3 +11,7 @@
 * Thrive on marshaling forces to get plans into action. 
 * Natural organization builders and almost always find themselves taking charge in ineffective situations.
 * Enjoy creating efficiently structured systems and setting priorities to achieve goals.
+
+**Sources**:
+* Berens, Linda V. & Nardi, Dario; _An Introduction to the Personality Type Code_
+
