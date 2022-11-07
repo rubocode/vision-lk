@@ -3,8 +3,8 @@
 ## ENTJ
 
 > **Strategist Mobilizer**  
-> [Theorist](../temperament/theorist) \|
-> [In-Charge](../style/in-charge)  
+> Temperament: [Theorist](../temperament/theorist)  
+> Style: [In-Charge](../style/in-charge)  
 > Functions: [Te](../functions/te),
 > [Ni](../functions/ni),
 > [Se](../functions/se),
