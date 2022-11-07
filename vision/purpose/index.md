@@ -13,4 +13,4 @@
 
 The purpose of life is to find peace, freedom and liberation.  Our institutions need to support this purpose for each individual.  The aim is not to have these at the expense of others, but to give these to others at your expense.
 
-In anything we do, in facing any challenge or in any task we undertake, we must ask and answer the questions _what_ and _why_.  These will yield us the _purpose_ and _meaning_ in that situation.  Our task becomes clear.  The result is efficiency and effectiveness.
+In anything we do, in facing any challenge or in any task we undertake, we must ask and answer the questions **what** and **why**.  These will yield us the **purpose** and **meaning** in that situation.  Our task becomes clear.  The result is efficiency and effectiveness.
