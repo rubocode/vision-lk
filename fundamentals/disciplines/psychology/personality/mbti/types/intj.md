@@ -2,8 +2,13 @@
 
 ## INTJ
 
-> **Conceptualizer Director** \| Temperament: [Theorist](../temperament/theorist) \| Style: [Chart-the-Course](../style/chart-the-course)  
-> Leading: [Ni](../functions/ni) \| Supporting: [Te](../functions/te) \| Relief: [Fi](../functions/fi) \| Aspirational: [Se](../functions/se)
+> **Conceptualizer Director**
+> Temperament: [Theorist](../temperament/theorist)
+> Style: [Chart-the-Course](../style/chart-the-course)  
+> Leading: [Ni](../functions/ni)
+> Supporting: [Te](../functions/te)
+> Relief: [Fi](../functions/fi)
+> Aspirational: [Se](../functions/se)
 
 * Theme is strategizing, envisioning, and masterminding.
 * Talents lie in defining goals, creating detailed plans, and outlining contingencies.
