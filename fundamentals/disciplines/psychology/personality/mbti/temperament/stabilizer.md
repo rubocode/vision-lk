@@ -10,4 +10,6 @@ The core needs are for group membership and responsibility.  They need to know t
 
 They are usually talented at logistics and at maintaining useful traditions.  They masterfully get the right things in the right place, at the right time, in the right quantity, in the right quality, to the right people, and not to the wrong people.  They know how things have always been done, so they anticipate where things can go wrong.  They have a knack for attending to rules, procedures, and protocol.  They make sure the correct information is assembled and presented to the right people.
 
-**Source**: Berens, Linda V.; _An Introduction to the 4 Temperaments_
+**Sources**:
+* Berens, Linda V. & Nardi, Dario; _An Introduction to the Personality Type Code_
+* Berens, Linda V.; _An Introduction to the 4 Temperaments_

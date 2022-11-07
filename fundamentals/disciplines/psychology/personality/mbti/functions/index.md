@@ -2,10 +2,10 @@
 
 ## Functions
 
-| Ne | [The Brainstormer](ne) |
-| Ni | [The Seer](ni) |
 | Se | [The Scout](se) |
 | Si | [The Conservator](si) |
+| Ne | [The Brainstormer](ne) |
+| Ni | [The Seer](ni) |
 | Te | [The Administrator](te) |
 | Ti | [The Analyzer](ti) |
 | Fe | [The Guide](fe) |
