@@ -2,11 +2,11 @@
 
 ## Functions
 
-* [Extraverted Intuition](ne)
-* [Introverted Intuition](ni)
-* [Extraverted Sensing](se)
-* [Introverted Sensing](si)
-* [Extraverted Thinking](te)
-* [Introverted Thinking](ti)
-* [Extraverted Feeling](fe)
-* [Introverted Feeling](fi)
+* [Ne: The Brainstormer](ne)
+* [Ni: The Seer](ni)
+* [Se: The Scout](se)
+* [Si: The Conservator](si)
+* [Te: The Administrator](te)
+* [Ti: The Analyzer](ti)
+* [Fe: The Guide](fe)
+* [Fi: The Conscience](fi)
