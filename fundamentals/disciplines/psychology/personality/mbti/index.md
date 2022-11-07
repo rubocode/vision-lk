@@ -2,6 +2,8 @@
 
 ## MBTI
 
+> [Temperament](temperament) | [Style](style)
+
 | [Theorist](temperament/theorist) | ENTJ | INTJ | ENTP | INTP |
 | [Catalyst](temperament/catalyst) | ENFJ | INFJ | ENFP | INFP |
 | [Stabilizer](temperament/stabilizer) | ESTJ | ISTJ | ESFJ | ISFJ |
