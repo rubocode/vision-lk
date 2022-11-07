@@ -2,7 +2,8 @@
 
 ## ENTJ
 
-> **Strategist Mobilizer**  
+> **Strategist Mobilizer**
+
 | Temperament | [Theorist](../temperament/theorist) |
 | Style | [In-Charge](../style/in-charge) |
 | Leading | [Te](../functions/te) |

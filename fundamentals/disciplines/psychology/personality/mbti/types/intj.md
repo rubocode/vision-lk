@@ -2,11 +2,12 @@
 
 ## INTJ
 
-> **Conceptualizer Director**  
+> **Conceptualizer Director**
+
 | Temperament | [Theorist](../temperament/theorist) |
 | Style | [Chart-the-Course](../style/chart-the-course) |
 | Leading | [Ni](../functions/ni) |
-| Supporting | [Te](../functions/te) |  
+| Supporting | [Te](../functions/te) |
 | Relief | [Fi](../functions/fi) |
 | Aspirational | [Se](../functions/se) |
 
