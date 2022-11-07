@@ -2,7 +2,7 @@
 
 ## MBTI
 
-> [Temperament](temperament) | [Style](style)
+> [Temperament](temperament) \| [Style](style)
 
 | [Theorist](temperament/theorist) | ENTJ | INTJ | ENTP | INTP |
 | [Catalyst](temperament/catalyst) | ENFJ | INFJ | ENFP | INFP |
