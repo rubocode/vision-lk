@@ -4,11 +4,11 @@
 
 > **Strategist Mobilizer**
 > [Theorist](../temperament/theorist) \|
-> [In-Charge](../style/in-charge) \|
-> Leading: [Te](../functions/te) \|
-> Supporting: [Ni](../functions/ni) \|
-> Relief: [Se](../functions/se) \|
-> Aspirational: [Fi](../functions/fi)
+> [In-Charge](../style/in-charge)  
+> Functions: [Te](../functions/te),
+> [Ni](../functions/ni),
+> [Se](../functions/se),
+> [Fi](../functions/fi)
 
 * Theme is directing and mobilizing.
 * Talents lie in developing policy, establishing plans, coordinating and sequencing events, and implementing strategy.
