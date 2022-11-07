@@ -1,4 +1,0 @@
-> [personality](../)
-
-## Big5
-
