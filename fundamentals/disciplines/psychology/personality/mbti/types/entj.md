@@ -2,7 +2,7 @@
 
 ## ENTJ
 
-> **Strategist Mobilizer** \| [Theorist](../temperament/theorist) \| [In-Charge](../style/in-charge)  
+> **Strategist Mobilizer** \| Temperament: [Theorist](../temperament/theorist) \| Style: [In-Charge](../style/in-charge)  
 > Leading: [Te](../functions/te) \| Supporting: [Ni](../functions/ni) \| Relief: [Se](../functions/se) \| Aspirational: [Fi](../functions/fi)
 
 * Theme is directing and mobilizing.
