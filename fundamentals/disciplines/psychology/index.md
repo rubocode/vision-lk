@@ -2,7 +2,7 @@
 
 ## Psychology
 
-* [Types](types)
+* [Personality](personality)
 
 Psychology is about **how we feel!** It is concerned with perception and perspective and how we could transform how we feel.
 
