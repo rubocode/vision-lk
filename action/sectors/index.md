@@ -4,8 +4,8 @@
 
 ### Pillars
 * [Efficient Agriculture](agriculture)
-* [Sophisticated Technology](technology)
 * [Globalist Education](education)
+* [Sophisticated Technology](technology)
 * [Advanced Healthcare](healthcare)
 
 ### Auxiliary
