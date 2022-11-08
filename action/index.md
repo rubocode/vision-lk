@@ -5,6 +5,6 @@
 > Go wisely and slowly.  Those who rush stumble and fall.  
 > **William Shakespeare**
 
-* [Culture](culture)
-* [Basics](basics)
-* [Sectors](sectors)
+* [Cultural Tranformation](culture)
+* [Assurance of Basics](basics)
+* [Sector Development](sectors)
