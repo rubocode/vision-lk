@@ -6,7 +6,9 @@
 > **William Shakespeare**
 
 * [Meritocracy](meritocracy)
-* [Infrastructure](infrastructure)
+* [Health](health)
+* [Education](education)
 * [Agriculture](agriculture)
 * [Technology](technology)
+* [Infrastructure](infrastructure)
 
