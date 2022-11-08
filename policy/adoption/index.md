@@ -4,4 +4,4 @@
 
 * [Creating Awareness](awareness)
 * [Consensus Building](consensus)
-* [Acceptance](acceptance)
+* [Collective Acceptance](acceptance)
