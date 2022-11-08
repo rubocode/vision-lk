@@ -5,6 +5,6 @@
 > Go wisely and slowly.  Those who rush stumble and fall.  
 > **William Shakespeare**
 
-* [Basics](basics)
 * [Culture](culture)
+* [Basics](basics)
 * [Sectors](sectors)
