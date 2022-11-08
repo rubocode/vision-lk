@@ -1,3 +1,3 @@
-> [mindsets](../)
+> [hearts](../)
 
 ## United Sri Lanka

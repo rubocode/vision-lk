@@ -2,7 +2,7 @@
 
 ## Culture
 
-* [Hearts and Minds](mindsets)
+* [Hearts and Minds](hearts)
 * [Moral and Ethical Transformation](ethics)
 * [Reconciliation](reconciliation)
 * [Collaboration](collaboration)

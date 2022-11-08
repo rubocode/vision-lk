@@ -1,3 +1,3 @@
-> [mindsets](../)
+> [hearts](../)
 
 ## A Just Society
