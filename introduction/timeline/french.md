@@ -6,7 +6,7 @@
 
 The French Revolution transformed France from a Monarchy into a Democracy.  The French had played a significant role in the American struggle for independence from the British.  The Americans opted to go with a Democracy — a system — instead of a Monarchy.
 
-The commemoration of the bicentennial of the French Revolution was organized and held by the Institute of Fundamental Studies where I worked at the time. I participated in the event.
+The commemoration of the _Bicentennial of the French Revolution_ was organized and held by the Institute of Fundamental Studies where I worked at the time. I participated in the event.
 
 While I was at Stevens Institute of Technology in the USA, I had the privilege to take a course on the _Old Regime and the French Revolution_ given by Professor James McClellan III.
 
