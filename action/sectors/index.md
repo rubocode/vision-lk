@@ -6,7 +6,7 @@
 * [Efficient Agriculture](agriculture)
 * [Sophisticated Technology](technology)
 * [Globalist Education](education)
-* [Advanced Healthcare](health)
+* [Advanced Healthcare](healthcare)
 
 ### Auxiliary
 * [Abundant Fisheries](fisheries)
