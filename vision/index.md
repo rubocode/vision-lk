@@ -2,7 +2,7 @@
 
 ## Vision
 
-> ETHICAL DEVELOPMENT
+> **ETHICAL DEVELOPMENT**
 
 Our vision must help us make decisions when navigating challenges.  It helps us to know what our priorities and values are so that we can navigate intelligently.  They must represent who we are and have a timeless quality.
 
