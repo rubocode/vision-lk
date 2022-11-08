@@ -2,16 +2,12 @@
 
 ## Vision
 
-> ETHICAL DEVELOPMENT**
-
-Our vision must help us make decisions when navigating challenges.  It helps us to know what our priorities and values are so that we can navigate intelligently.  They must represent who we are and have a timeless quality.
-
 > For we walk by faith, not by sight.  
 > **2 Corinthians 5:7 KJV**
 
-> චේතනාහං භික්ඛවේ කම්මං වදාමි.  
-> Intention drives action.  
-> **Buddha**
+Our vision must help us make decisions when navigating challenges.  It helps us to know what our priorities and values are so that we can navigate intelligently.  They must represent who we are and have a timeless quality.
+
+> ETHICAL DEVELOPMENT
 
 * [Purpose](purpose)
 * [Progress](progress)
