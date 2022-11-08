@@ -1,6 +1,6 @@
 > [action](../)
 
-## Basics
+## Assurance of Basics
 
 * [Food Security](food)
 * [Medical Facilities and Supplies](medical)
