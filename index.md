@@ -4,6 +4,7 @@
 ![banner](photos/banner.png)
 
 ## Vision Sri Lanka
+> **ETHICAL DEVELOPMENT**
 
 > A problem well stated is half solved.  
 > **Charles Kettering**
