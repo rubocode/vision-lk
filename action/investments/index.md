@@ -2,6 +2,13 @@
 
 ## Investments
 
+### Pillars
 * [Agriculture](agriculture)
-* [Education](education)
 * [Technology](technology)
+* [Education](education)
+* [Health](health)
+
+### Auxiliary
+* [Tourism](tourism)
+* [Fisheries](fisheries)
+	
