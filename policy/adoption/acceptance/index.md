@@ -1,3 +1,4 @@
 > [adoption](../)
 
-## Signature
+## Acceptance
+

@@ -2,6 +2,6 @@
 
 ## Adoption
 
-* [Awareness](awareness)
-* [Consensus](consensus)
-* [Signature](signature)
+* [Creating Awareness](awareness)
+* [Consensus Building](consensus)
+* [Acceptance](acceptance)
