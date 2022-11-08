@@ -1,3 +1,3 @@
 > [sectors](../)
 
-## Agriculture
+## Efficient Agriculture

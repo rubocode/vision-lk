@@ -1,3 +1,3 @@
 > [sectors](../)
 
-## Technology
+## Sophisticated Technology

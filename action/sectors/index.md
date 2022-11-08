@@ -3,12 +3,12 @@
 ## Sector Development
 
 ### Pillars
-* [Agriculture](agriculture)
-* [Technology](technology)
-* [Education](education)
-* [Health](health)
+* [Efficient Agriculture](agriculture)
+* [Sophisticated Technology](technology)
+* [Globalist Education](education)
+* [Universal Healthcare](health)
 
 ### Auxiliary
-* [Tourism](tourism)
-* [Fisheries](fisheries)
+* [Identity Tourism](tourism)
+* [Abundant Fisheries](fisheries)
 	

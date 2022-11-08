@@ -1,3 +1,3 @@
 > [sectors](../)
 
-## Education
+## Globalist Education
