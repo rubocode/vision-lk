@@ -1,6 +1,6 @@
 > [action](../)
 
-## Investments
+## Sectors
 
 ### Pillars
 * [Agriculture](agriculture)

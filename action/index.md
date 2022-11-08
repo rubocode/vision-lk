@@ -6,5 +6,5 @@
 > **William Shakespeare**
 
 * [Basics](basics)
-* [Investments](investments)
 * [Culture](culture)
+* [Sectors](sectors)
