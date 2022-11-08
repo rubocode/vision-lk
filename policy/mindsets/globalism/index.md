@@ -1,4 +1,4 @@
-> [guidance](../)
+> [mindsets](../)
 
 ## Globalism
 

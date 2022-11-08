@@ -1,3 +1,0 @@
-> [guidance](../)
-
-## Capitalism
