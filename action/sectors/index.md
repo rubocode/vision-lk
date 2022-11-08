@@ -9,6 +9,6 @@
 * [Advanced Healthcare](health)
 
 ### Auxiliary
-* [Identity Tourism](tourism)
 * [Abundant Fisheries](fisheries)
+* [Identity Tourism](tourism)
 	
