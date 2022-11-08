@@ -1,0 +1,3 @@
+> [mindsets](../)
+
+## A Just Society
