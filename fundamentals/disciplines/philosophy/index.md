@@ -2,6 +2,9 @@
 
 ## Philosophy
 
+> The greatest way to live with honor in this world is to be what we pretend to be.  
+> **Socrates**
+
 Philosophy is about **how we think!**  It is concerned with the **questions** of life.
 What do we know?  How do we know that?  Why are things are the way they are?
 Are we sure about that?

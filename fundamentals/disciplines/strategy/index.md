@@ -2,6 +2,9 @@
 
 ## Strategy
 
+> Lead me, follow me or get out of my way.  
+> **George S. Patton**
+
 Strategy is about **how we act!**  It is about how we decide on and achieve our aims.
 
 What are we trying to accomplish?  Why and how did we decide on that?
