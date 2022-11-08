@@ -1,4 +1,4 @@
-> [policy](../)
+> [home](../)
 
 ## Guiding Policy
 
