@@ -3,5 +3,5 @@
 ## Adoption
 
 * [Awareness](awareness)
-* [Concensus](concensus)
+* [Consensus](consensus)
 * [Signature](signature)
