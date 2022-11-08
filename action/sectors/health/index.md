@@ -1,3 +1,3 @@
 > [sectors](../)
 
-## Universal Healthcare
+## Advanced Healthcare

@@ -6,7 +6,7 @@
 * [Efficient Agriculture](agriculture)
 * [Sophisticated Technology](technology)
 * [Globalist Education](education)
-* [Universal Healthcare](health)
+* [Advanced Healthcare](health)
 
 ### Auxiliary
 * [Identity Tourism](tourism)
