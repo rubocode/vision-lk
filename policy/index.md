@@ -3,6 +3,6 @@
 ## Guiding Policy
 
 * [Ideological Clarity](ideology)
-* [Durable Priorities](priorities)
 * [Accountable Adoption](adoption)
+* [Durable Priorities](priorities)
 
