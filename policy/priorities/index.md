@@ -3,6 +3,6 @@
 ## Durable Priorities
 
 * [Solid Foundation](foundation)
-* [Strong Pillars](pillars)
+* [Vital Pillars](pillars)
 * [Unique Opportunities](opportunities)
 

@@ -2,13 +2,13 @@
 
 ## Sector Development
 
-### Pillars
+### Vital Pillars
 * [Efficient Agriculture](agriculture)
 * [Globalist Education](education)
 * [Sophisticated Technology](technology)
 * [Advanced Healthcare](healthcare)
 
-### Auxiliary
+### Unique Opportunities
 * [Abundant Fisheries](fisheries)
 * [Identity Tourism](tourism)
 	
