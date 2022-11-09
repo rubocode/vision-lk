@@ -12,7 +12,7 @@ Work, is another matter altogether.  I could not find fulfilling work or the opp
 
 The JVP had been crushed to a degree in 1989.  The party has made a come back.  The LTTE would only reach that point in 2009.  The economy was weak, not helped by the spending on the war.
 
-The same three problems that I experienced in 1988/89 are still quite salient.
+The same three problems that I witnessed in 1988/89 are still quite salient.
 
 
 
