@@ -10,9 +10,11 @@ In a marriage conflict, the _male_ and _female_ group identities may gain domina
 
 In a country strapped for resources, the struggle for resources often induces the grouping of individuals based on _ethnicity_, _language_ or _religion_.  These often manifest as _ethnic rights_ or _religious freedom_ movements.
 
-At the core, these is just simple-minded commonality used as common grounds to demand the expectation of _justice_ or your _piece of the pie_.  This line of thinking often, on the frontlines, demands a culture of totalitarian conservatism for the winning of demands.  
+At the core, this is just simple-minded attempt to use common grounds to demand the expectation of _justice_ or your _piece of the pie_.  This line of thinking often, on the frontlines, demands a culture of centralized planning for dividing up the pie.
 
-Once the demands are won, however, they still have to share the pie.  This demands _subcategories_ or _subclasses_ and centralized planning, control and resource management based on group identity.  This approach to life results in _identity politics_, a complete mess of artificial, arbitrary and inflexible fragmentation of society.
+Once the demands are won, however, they still have to share the pie.  This demands _subcategories_ or _subclasses_ and centralized planning, control and resource management based on group identity.  This demands iconic totalitarian dictators with godly powers and wisdom - hello _Russia_, _China_ and _Cuba_, not to mention _North Korea_!.
+
+This approach to life also results in _identity politics_, a complete mess of artificial, arbitrary,  inflexible fragmentation of society primarily motivated by economic survival.  Is that all life is — economic viability? Sad!
 
 The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism.
 
