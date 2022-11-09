@@ -10,6 +10,8 @@ In a country strapped for resources, the struggle for resources often induces th
 
 Once the demands are won, however, they still have to share the pie.  This demands _subcategories_ or _subclasses_ and centralized planning, control and resource management based on group identity.  This demands iconic totalitarian dictators with godly powers and wisdom - hello _Russia_, _China_ and _Cuba_, not to mention _North Korea_!.  This approach to life results in _identity politics_, a complete mess of artificial, arbitrary,  inflexible fragmentation of society primarily motivated by economic survival.  Is that all life is — economic viability? Sad!
 
+More significantly, the rights problem, has not been solved, merely postponed, waiting for further subcategories to emerge for further bargaining for their piece of the pie.  Their answer, of course, is dictatorship — this is the way it is, shut up and get to work!
+
 The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism.
 
 
