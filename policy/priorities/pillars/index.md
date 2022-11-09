@@ -1,8 +1,8 @@
 > [priorities](../)
 
-## Pillars
+## Vital Pillars
 
-* [Agriculture](agriculture)
-* [Education](education)
-* [Health](health)
-* [Technology](technology)
+* [Efficient Agriculture](agriculture)
+* [Globalist Education](education)
+* [Sophisticated Technology](technology)
+* [Advanced Healthcare](healthcare)

@@ -1,3 +1,3 @@
 > [foundation](../)
 
-## Meritocracy
+## Functional Meritocracy

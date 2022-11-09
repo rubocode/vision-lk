@@ -2,7 +2,7 @@
 
 ## Durable Priorities
 
-* [Foundation](foundation)
-* [Pillars](pillars)
-* [Auxiliary](auxiliary)
+* [Solid Foundation](foundation)
+* [Strong Pillars](pillars)
+* [Unique Opportunities](opportunities)
 

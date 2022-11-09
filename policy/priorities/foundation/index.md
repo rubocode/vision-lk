@@ -1,6 +1,5 @@
 > [priorities](../)
 
-## Foundation
+## Solid Foundation
 
-* [Meritocracy](meritocracy)
-* [Infrastructure](infrastructure)
+* [Functional Meritocracy](meritocracy)
