@@ -1,6 +1,6 @@
 > [policy](../)
 
-## Priorities
+## Durable Priorities
 
 * [Foundation](foundation)
 * [Pillars](pillars)

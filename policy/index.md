@@ -2,7 +2,7 @@
 
 ## Guiding Policy
 
-* [Mindsets](mindsets)
-* [Priorities](priorities)
-* [Adoption](adoption)
+* [Ideological Clarity](ideology)
+* [Durable Priorities](priorities)
+* [Accountable Adoption](adoption)
 

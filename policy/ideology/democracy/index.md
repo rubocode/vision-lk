@@ -1,0 +1,3 @@
+> [ideology](../)
+
+## Vibrant Democracy
