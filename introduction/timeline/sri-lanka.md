@@ -10,9 +10,9 @@ Life is balanced, slow paced and simple.  It’s a small country.
 
 Work, is another matter altogether.  I could not find fulfilling work or the opportunity to make use of my talents.  We are not exactly leading edge.
 
-The JVP had been crushed to a degree in 1989.  The party had made a come back.  The LTTE would only reach that point in 2009.  The economy was weak, not helped by the spending on the war.
+The JVP had been crushed to a degree in 1989.  The party has made a come back.  The LTTE would only reach that point in 2009.  The economy was weak, not helped by the spending on the war.
 
-The same three problems that I experienced in 1988/89 were still quite salient.
+The same three problems that I experienced in 1988/89 are still quite salient.
 
 
 
