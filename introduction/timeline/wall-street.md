@@ -10,4 +10,4 @@ I first worked on Core Technologies in the Database Engineering area.  I later m
 
 Salomon, Inc. merged with Smith Barney, Inc. of the Travelers Group.  Travelers then merged with Citibank, creating Citigroup, Inc., the largest company on Earth at that time.
 
-At the time I returned to Sri Lanka in 2000, I was a Senior Programmer Analyst in the Global Fixed Income Technology area.
+When I returned to Sri Lanka in 2000, I was a Senior Programmer Analyst in the Global Fixed Income Technology area.
