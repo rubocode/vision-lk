@@ -10,6 +10,8 @@ Once the demands are won, however, they still have to share the pie.  This deman
 
 In pre-dictatorship environments, this approach to life manifests as _identity politics_, a complete mess of artificial, arbitrary,  inflexible fragmentation of society primarily motivated by economic survival.  Is that all life is — economic viability? Sad!  More significantly, the rights problem, has not been solved, merely postponed, waiting for subcategories to emerge for further bargaining for their piece of the pie.  This, interestingly, creates the demand for dictatorship — the one, only, permanently correct and authoritative way of dividing up the pie.
 
-The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism.
+The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism for dynamic and adaptive division of the pie.  And life is much more than just pie!
+
+ 
 
 
