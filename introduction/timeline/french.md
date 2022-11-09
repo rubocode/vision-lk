@@ -4,7 +4,7 @@
 
 ## French Revolution (1789)
 
-The French Revolution transformed France from a Monarchy into a Democracy.  The French had played a significant role in the American struggle for independence from the British.  The Americans opted to go with a Democracy — a system — instead of a Monarchy.
+The French Revolution transformed France from a ***monarchy*** into a ***democracy***.  The French had played a significant role in the American struggle for independence from the British.  The Americans opted to go with a democracy — a system — instead of a monarchy.
 
 The commemoration of the _Bicentennial of the French Revolution_ was organized and held by the Institute of Fundamental Studies where I worked at the time. I participated in the event.
 
