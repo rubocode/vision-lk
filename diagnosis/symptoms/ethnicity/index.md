@@ -2,13 +2,19 @@
 
 ## Ethnic Separatism
 
-In cultures that are primarily _individualist_, each person is considered _unique_.  In _collectivist_ cultures,  each person is considered as part of a _group_, _tribe_ or _class_ through which they derive their _identity_.  When the flourishing of the individual is not supported, people resort to _group bargaining_ as both offense and defense.  These group affiliations can be quite arbitrary and situational.
+In cultures that are primarily _individualist_, each person is considered _unique_.  In _collectivist_ cultures,  each person is considered as part of a _group_, _tribe_ or _class_ through which they derive their _identity_.
+
+When the flourishing of the individual is not supported, people resort to _group bargaining_ as both offense and defense.  These group affiliations can be quite arbitrary and situational.
 
 In a marriage conflict, the _male_ and _female_ group identities may gain dominance over the individual specifics as a defense mechanisms.  It may be that all teachers or engineers group together to make demands based on their area of occupation.
 
-In a country strapped for resources, the struggle for resources often induces the grouping of individuals based on _ethnicity_, _language_ or _religion_.  These often manifest as _ethnic rights_ or _religious freedom_ movements.  At the core, this is just simple-minded attempt to use common grounds to demand the expectation of _justice_ or your _piece of the pie_.  This line of thinking often, on the frontlines, demands a culture of centralized planning for dividing up the pie.
+In a country strapped for resources, the struggle for resources often induces the grouping of individuals based on _ethnicity_, _language_ or _religion_.  These often manifest as _ethnic rights_ or _religious freedom_ movements.
 
-Once the demands are won, however, they still have to share the pie.  This demands _subcategories_ or _subclasses_ and centralized planning, control and resource management based on group identity.  This demands iconic totalitarian dictators with godly powers and wisdom - hello _Russia_, _China_ and _Cuba_, not to mention _North Korea_!.  This approach to life also results in _identity politics_, a complete mess of artificial, arbitrary,  inflexible fragmentation of society primarily motivated by economic survival.  Is that all life is — economic viability? Sad!
+At the core, this is just simple-minded attempt to use common grounds to demand the expectation of _justice_ or your _piece of the pie_.  This line of thinking often, on the frontlines, demands a culture of centralized planning for dividing up the pie.
+
+Once the demands are won, however, they still have to share the pie.  This demands _subcategories_ or _subclasses_ and centralized planning, control and resource management based on group identity.  This demands iconic totalitarian dictators with godly powers and wisdom - hello _Russia_, _China_ and _Cuba_, not to mention _North Korea_!.
+
+This approach to life also results in _identity politics_, a complete mess of artificial, arbitrary,  inflexible fragmentation of society primarily motivated by economic survival.  Is that all life is — economic viability? Sad!
 
 The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism.
 
