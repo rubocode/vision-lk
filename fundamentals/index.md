@@ -7,7 +7,7 @@
 
 * [Kernel of Good Strategy](kernel-of-good-strategy)
 * [Key Disciplines](disciplines)
-* [Key Practices](key-practices)
+* [Key Practices](practices)
 * [Elements of Governance](governance)
 * [Essential Ideologies](ideologies)
 * [Elements of Systems](systems)
