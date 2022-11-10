@@ -1,17 +1,17 @@
 > [fundamentals](../)
 
-## Mindsets
+## Ideologies
 
 | **Category** | **Democratic** | **Totalitarian** |
 | - | - | 
-| Sovereignty | [Individualist](individualist) | [Collectivist](collectivist) |
-| Philosophy | [Liberal](liberal) | [Conservative](conservative) |
-| Faith | [Theist](theist) | [Atheist](atheist) |
+| Sovereignty | [Individualism](individualism) | [Collectivism](collectivism) |
+| Philosophy | [Liberalism](liberalism) | [Conservatism](conservatism) |
+| Faith | [Theism](theism) | [Atheism](atheism) |
 | Wealth | [Distribution](distribution) | [Concentration](concentration) | 
 | Power | [Delegation](delegation) | [Centralization](centralization) |
-| Economics | [Capitalist](capitalist) | [Socialist](socialist) |
+| Economics | [Capitalism](capitalism) | [Socialism](socialism) |
 | Attitude | [Fitness](fitness) | [Vulnerability](vulnerability) |
-| Focus | [Futuristic](futuristic) | [Nostalgic](nostalgic) |
+| Focus | [Futurism](futurism) | [Nostalgia](nostalgia) |
 | Value | [Freedom](freedom) | [Control](control) |
 
 

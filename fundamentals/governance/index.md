@@ -1,6 +1,6 @@
 > [fundamentals](../)
 
-## Governance
+## Elements of Governance
 
 > To become truly great, one has to stand with people, not above them.  
 > **Montesquieu**

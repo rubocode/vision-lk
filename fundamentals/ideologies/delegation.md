@@ -1,4 +1,4 @@
-> [mindsets](../)
+> [ideologies](./)
 
 ## Delegation
 
