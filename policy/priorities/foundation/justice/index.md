@@ -1,3 +1,0 @@
-> [foundation](../)
-
-## Credible Justice

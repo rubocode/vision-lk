@@ -1,3 +1,0 @@
-> [foundation](../)
-
-## Functional Meritocracy
