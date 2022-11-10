@@ -1,8 +1,8 @@
 > [policy](../)
 
-## Durable Priorities
+## Priorities
 
-* [Solid Foundation](foundation)
-* [Vital Pillars](pillars)
-* [Unique Opportunities](opportunities)
+* [Culture](culture)
+* [Foundation](foundation)
+* [Sectors](sectors)
 

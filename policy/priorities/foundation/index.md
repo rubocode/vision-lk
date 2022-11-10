@@ -1,6 +1,7 @@
 > [priorities](../)
 
-## Solid Foundation
+## Foundation
 
-* [Functional Meritocracy](meritocracy)
-* [Credible Justice](justice)
+* [Meritocracy](meritocracy)
+* [Justice](justice)
+* [Basics](basics)
