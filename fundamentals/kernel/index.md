@@ -1,4 +1,4 @@
-> [fundamentals](./)
+> [fundamentals](../)
 
 ## Kernel of Good Strategy
 
