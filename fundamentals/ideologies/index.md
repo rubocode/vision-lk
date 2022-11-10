@@ -1,6 +1,6 @@
 > [fundamentals](../)
 
-## Ideologies
+## Essential Ideologies
 
 | **Category** | **Democratic** | **Totalitarian** |
 | - | - | 
