@@ -7,6 +7,6 @@
 
 * [Functional Meritocracy](meritocracy)
 * [Credible Justice](justice)
-* [Cultural Transformation](culture)
+* [Positive Culture](culture)
 * [Assurance of Basics](basics)
 * [Sector Development](sectors)

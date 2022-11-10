@@ -1,3 +1,3 @@
 > [basics](../)
 
-## Shelter
+## Reasonable Shelter

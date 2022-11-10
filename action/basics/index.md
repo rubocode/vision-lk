@@ -4,5 +4,5 @@
 
 * [Food Security](food)
 * [Medical Facilities and Supplies](medical)
-* [Clothing Adequacy](clothing)
-* [Shelter Planning](shelter)
+* [Adequate Clothing](clothing)
+* [Reasonable Shelter](shelter)

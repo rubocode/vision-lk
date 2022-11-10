@@ -2,7 +2,7 @@
 
 ## Assurance of Basics
 
-* [Food](food)
-* [Medicine](medicine)
-* [Clothing](clothing)
-* [Shelter](shelter)
+* [Food Seurity](food)
+* [Medical Facilities and Supplies](medical)
+* [Adequate Clothing](clothing)
+* [Reasonable Shelter](shelter)

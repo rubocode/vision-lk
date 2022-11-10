@@ -1,7 +1,7 @@
 > [priorities](../)
 
-## Foundation
+## Robust Foundation
 
-* [Meritocracy](meritocracy)
-* [Justice](justice)
-* [Basics](basics)
+* [Functional Meritocracy](meritocracy)
+* [Credible Justice](justice)
+* [Assurance of Basics](basics)

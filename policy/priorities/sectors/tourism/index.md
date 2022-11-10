@@ -1,3 +1,3 @@
 > [auxiliary](../)
 
-## Identity Tourism
+## Tourism
