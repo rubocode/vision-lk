@@ -16,7 +16,7 @@ Polymathy is not for everyone.
 
 ### Intelligence
 
-> Life is a journey where hopefully — you continually enhance your ability to discern the genuine from the bullshit.  
+> Life is a journey where — hopefully — you continually enhance your ability to discern the genuine from the bullshit.  
 > **Ruchira Bomiriya**
 
 Intelligence is about **how we judge!**  It is the **potential to acquire and apply knowledge**.  It can alternatively be thought of as the **ability to learn and decide**.
