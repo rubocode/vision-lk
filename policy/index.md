@@ -7,6 +7,6 @@
 > **Lao Tzu**
 
 * [Ideological Clarity](ideology)
-* [Durable Priorities](priorities)
+* [Enduring Priorities](priorities)
 * [Accountability](accountability)
 

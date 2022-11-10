@@ -1,6 +1,6 @@
 > [policy](../)
 
-## Priorities
+## Enduring Priorities
 
 > Great designs come from great designers.  Not from great design processes.  
 > **Frederick P. Brooks, Jr.**
