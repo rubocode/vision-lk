@@ -17,6 +17,4 @@ This has obliterated informed futuristic decisions with long term impact.
 2. Nurture the private sector.
 3. Nurture broad-minded intelligence in the youth.
 
-There should be a local self sufficiency baseline for basic necessities.
-
-But we need to tap into the full potential of our local brains to show the world what we are made of.  Otherwise, we will end up a timid, ignorant and unfortunate nation.
+There should be a local self sufficiency baseline for basic necessities.  But we need to tap into the full potential of our local brains to show the world what we are made of.  Otherwise, we will end up a timid, ignorant and unfortunate nation.
