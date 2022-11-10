@@ -10,4 +10,4 @@
 * [Key Practices](key-practices)
 * [Elements of Governance](governance)
 * [Essential Ideologies](ideologies)
-* [Fundamentals of Systems](systems)
+* [Elements of Systems](systems)
