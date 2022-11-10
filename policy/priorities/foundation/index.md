@@ -3,6 +3,12 @@
 
 ## Robust Foundation
 
+### Assurance of Basics
+* Food Security
+* Medical Facilities and Supplies
+* Adequate Clothing
+* Reasonable Shelter
+
 ### Functional Meritocracy
 * Entrepreneurial Culture
 * Ethical and Educated Politicians
@@ -12,9 +18,3 @@
 * Independence of Judiciary
 * Efficient Court System
 * Bribery and Corruption
-
-### Assurance of Basics
-* Food Security
-* Medical Facilities and Supplies
-* Adequate Clothing
-* Reasonable Shelter
