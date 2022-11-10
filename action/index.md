@@ -2,8 +2,8 @@
 
 ## Coherent Action
 
-> Go wisely and slowly.  Those who rush stumble and fall.  
-> **William Shakespeare**
+> The greater the difficulty, the more glory in surmounting it.  Skillful pilots gain their reputation from storms and tempests.  
+> **Epictetus**
 
 * [Functional Meritocracy](meritocracy)
 * [Credible Justice](justice)
