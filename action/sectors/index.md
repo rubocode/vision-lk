@@ -1,4 +1,4 @@
-> [policy](../)
+> [action](../)
 
 ## Sector Development
 
