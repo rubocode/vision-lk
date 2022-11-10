@@ -1,3 +1,0 @@
-> [basics](../)
-
-## Adequate Clothing
