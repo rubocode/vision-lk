@@ -6,7 +6,7 @@
 > **Carl Gustav Jung**
 
 * [Kernel of Good Strategy](kernel-of-good-strategy)
-* [Key Disciplines](key-disciplines)
+* [Key Disciplines](disciplines)
 * [Key Practices](key-practices)
 * [Elements of Governance](governance)
 * [Essential Ideologies](ideologies)
