@@ -6,6 +6,7 @@
 > **William Shakespeare**
 
 * [Functional Meritocracy](meritocracy)
+* [Credible Justice](justice)
 * [Cultural Transformation](culture)
 * [Assurance of Basics](basics)
 * [Sector Development](sectors)
