@@ -2,7 +2,7 @@
 
 ## Priorities
 
-* [Positive Culture](culture)
 * [Robust Foundation](foundation)
+* [Positive Culture](culture)
 * [Sector Development](sectors)
 
