@@ -1,3 +1,0 @@
-> [politics](/polymathy/politics)
-
-# Introduction
