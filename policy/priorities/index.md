@@ -8,17 +8,27 @@
 ### Robust Foundation
 
 #### Functional Meritocracy
+* Entrepreneurial Culture
+* Ethical and Educated Politicians
+* Equal Opportunity
 
 #### Credible Justice
+* Independence of Judiciary
+* Efficient Court System
+* Bribery and Corruption
 
 #### Assurance of Basics
-
 * Food Security
 * Medical Facilities and Supplies
 * Adequate Clothing
 * Reasonable Shelter
 
 ### Positive Culture
+* Hearts and Minds
+* Ethics and Morality
+* Leadership by Example
+* Reconciliation
+* Collaboration
 
 ### Sector Development
 
