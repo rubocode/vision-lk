@@ -1,5 +1,0 @@
-> [adoption](../)
-
-## Consensus Building
-
-

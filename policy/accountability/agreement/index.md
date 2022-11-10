@@ -1,4 +1,0 @@
-> [adoption](../)
-
-## General Agreement
-

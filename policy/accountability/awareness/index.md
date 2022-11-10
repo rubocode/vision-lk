@@ -1,3 +1,0 @@
-> [adoption](../)
-
-## Creating Awareness

@@ -2,6 +2,8 @@
 
 ## Accountability
 
-* [Creating Awareness](awareness)
-* [Consensus Building](consensus)
-* [Agreement](agreement)
+### Creating Awareness
+
+### Consensus Building
+
+### Agreement
