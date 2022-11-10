@@ -13,4 +13,4 @@ The old regime of Kandyan origin represented by the Bandaranaike family embraced
 
 It is interesting to note that President Chandrika Bandaranaike Kumaratunga studied at Sorbonne in France and must be intimately familiar with the French Revolution.
 
-The significant transformation in recent history was that made by President J.R.&nbsp;Jayewardene.  He promoted the idea of **A Just Society (ධර්මිෂ්ඨ සමාජයක්)** using a secular democratic approach.
+The significant transformation in recent history was that made by President J.R.&nbsp;Jayewardene.  He promoted the idea of ***”A Just Society (ධර්මිෂ්ඨ සමාජයක්)”*** using a secular democratic approach.
