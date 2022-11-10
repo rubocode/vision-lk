@@ -2,6 +2,9 @@
 
 ## Priorities
 
+> Great designs come from great designers.  Not from great design processes.  
+> **Frederick P. Brooks, Jr.**
+
 ### Robust Foundation
 
 #### Functional Meritocracy
