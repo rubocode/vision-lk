@@ -7,3 +7,5 @@
 
 * [Kernel of Good Strategy](kernel-of-good-strategy)
 * [Key Disciplines](key-disciplines)
+* [Key Practices](key-practices)
+
