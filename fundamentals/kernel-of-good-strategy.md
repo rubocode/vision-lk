@@ -2,7 +2,7 @@
 
 ## Kernel of Good Strategy
 
-> **Extract:**  
+> **Extract \>**  
 > Good Strategy, Bad Strategy (Chapter 5)  
 > _The Difference and Why it Matters_  
 > **Rumelt, Richard P.**
