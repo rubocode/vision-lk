@@ -2,10 +2,10 @@
 
 ## Kernel of Good Strategy
 
-> **Extract**
-> Good Strategy, Bad Strategy (Chapter 5)
-> _The Difference and Why it Matters_
-> Rumelt, Richard P.
+> **Extract:**  
+> Good Strategy, Bad Strategy (Chapter 5)  
+> _The Difference and Why it Matters_  
+> **Rumelt, Richard P.**
 
 Good strategy is coherent action backed up by an argument, an effective mixture of thought and action with a basic underlying structure I call the kernel. A good strategy may consist of more than the kernel, but if the kernel is absent or misshapen, then there is a serious problem.
 Once you apprehend this kernel, it is much easier to create, describe, and evaluate a strategy. The kernel is not based on any one concept of advantage. It does not require one to sort through legalistic gibberish about the differences between visions, missions, goals, strategies, objectives, and tactics. It does not split strategies into corporate, business, and product levels. It is very straightforward.
