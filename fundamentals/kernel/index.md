@@ -1,6 +1,6 @@
 > [fundamentals](../)
 
-## Kernel of Good Strategy
+## The Kernel of Good Strategy
 
 > Good Strategy Bad Strategy: _The Difference and Why it Matters_; Chapter 5  
 > **Rumelt, Richard P.**
