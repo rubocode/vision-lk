@@ -7,6 +7,7 @@
 > **Lao Tzu**
 
 * [Ideological Clarity](ideology)
+* [Guiding Principles](principles)
 * [Enduring Priorities](priorities)
 * [Accountability](accountability)
 

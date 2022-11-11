@@ -1,0 +1,3 @@
+> [principles](../)
+
+## The Right Education
