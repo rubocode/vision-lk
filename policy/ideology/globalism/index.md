@@ -1,0 +1,3 @@
+> [ideology](../)
+
+## Global Intellect

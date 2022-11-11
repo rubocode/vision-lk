@@ -4,10 +4,9 @@
 
 Make the decision to go with these choices and not their opposites.  Then don’t look back!
 
-### Vibrant Democracy
+* [Vibrant Democracy](democracy)
+* [Market Capitalism](capitalism)
+* [Global Intellect](globalism)
 
-### Market Capitalism
-
-### Global Intellect
 
 

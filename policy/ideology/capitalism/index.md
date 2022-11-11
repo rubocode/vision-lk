@@ -1,0 +1,3 @@
+> [ideology](../)
+
+## Market Capitalism
