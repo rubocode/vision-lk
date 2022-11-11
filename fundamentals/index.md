@@ -8,6 +8,6 @@
 * [The Kernel of Good Strategy](kernel)
 * [Key Disciplines](disciplines)
 * [Key Practices](practices)
-* [Elements of Governance](governance)
+* [The Elements of Good Governance](governance)
 * [Essential Ideologies](ideologies)
 * [Elements of Systems](systems)
