@@ -16,7 +16,7 @@ The kernel of a strategy contains three elements:
 
 Here are some examples:
 
-* For a doctor, the challenge appears as a set of signs and symptoms together with a history.  The doctor makes a clinical diagnosis, naming a disease of pathology.  The therapeutic approach chosen is the doctor's guiding policy.  The doctor’s specific prescription, or diet, therapy, and medication are the set of coherent actions to be taken.
+* For a doctor, the challenge appears as a set of signs and symptoms together with a history.  The doctor makes a clinical diagnosis, naming a disease or pathology.  The therapeutic approach chosen is the doctor's guiding policy.  The doctor’s specific prescription, or diet, therapy, and medication are the set of coherent actions to be taken.
 
 * In foreign policy, challenging situations are usually diagnosed in terms of analogies with past situations. The guiding policy adopted is usually an approach deemed successful in some past situation.  Thus, if the diagnosis is that Iran's president, Mahmoud Ahmadinejad, is "another Hitler," war might be the logical implication.  However, if he is "another Moammar Gadhafi," then strong pressure coupled with behind-the-scenes negotiation might be the chosen guiding policy.  In foreign policy, the set of coherent actions are normally a mix of economic, diplomatic, and military maneuvers.
 
