@@ -2,7 +2,7 @@
 
 ## Hunters and Farmers
 
-> ***EXCERPT***  
+> **EXCERPT**  
 > Hunting in a Farmer’s World:
 > _Celebrating the Mind of an Entrepreneur_;
 > Chapter 1  
@@ -24,7 +24,7 @@ Most books about running a small business ignore this reality.  They tell hunter
 "management experts" tell you that you are doing it incorrectly. They say that you need to have more systems, more processes, and more management.  They tell you to rein in your inspiration and apply analysis to your
 instincts. They teach that the way to business success is for a hunter to become a farmer.
 
-***They are wrong***.
+They are wrong.
 
 Business authors can easily dissect a big corporation where there are hundreds or thousands of well-documented data points. Multiple employees are subjected to the same motivational techniques, receive similar performance evaluations, or have reward systems designed to
 reach nearly identical goals. That makes large organizations measurable and renders plenty of material about what works and what doesn't.

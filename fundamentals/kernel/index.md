@@ -2,7 +2,7 @@
 
 ## The Kernel of Good Strategy
 
-> ***EXCERPT***  
+> **EXCERPT**  
 > Good Strategy Bad Strategy:
 > _The Difference and Why it Matters_;
 > Chapter 5  
