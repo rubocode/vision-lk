@@ -36,9 +36,7 @@ There is a problem with using big business models to develop management lessons 
 how to effectively utilize millions of dollars
 in resources. Hunters build them.
 
-Managing a large organization is farming. Hunters don't farm; they hunt. They may make farming possible, but they aren't farmers themselves. That is why entrepreneurs buy millions of books on business, and then fail to implement much of the advice in them.
-
-It isn't that "business farming" is wrong; management techniques, systems, policies and procedures just aren't what a hunter should be doing to build a successful business.
+Managing a large organization is farming. Hunters don't farm; they hunt. They may make farming possible, but they aren't farmers themselves. That is why entrepreneurs buy millions of books on business, and then fail to implement much of the advice in them. It isn't that "business farming" is wrong; management techniques, systems, policies and procedures just aren't what a hunter should be doing to build a successful business.
 
 Entrepreneurs create; they don't manage. They build with ideas, not with policy manuals. They solve problems as they arise, because planning will inevitably fail to anticipate the next problem. They make money by being faster and smarter than the forces arrayed
 against them (and there are many). They don't succeed by carefully charting long-term incremental improvements. That is the province of large corporations.
