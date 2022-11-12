@@ -6,6 +6,7 @@
 > **Carl Gustav Jung**
 
 * [The Kernel of Good Strategy](kernel)
+* [Hunters and Farmers](hunters)
 * [Key Disciplines](disciplines)
 * [Key Practices](practices)
 * [The Elements of Good Governance](governance)
