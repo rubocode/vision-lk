@@ -10,7 +10,9 @@ Once the demands are won, however, they still have to share the pie.  This deman
 
 In pre-dictatorship environments, this approach to life manifests as _identity politics_, a complete mess of artificial, arbitrary and inflexible fragmentation of society primarily motivated by economic survival.  Is that all life is — economic viability? Sad!  More significantly, the rights problem has not been solved — only merely postponed — waiting to facilitate further subcategories to emerge, bargaining for their piece of the pie.  Interestingly, this creates demand for dictatorship — the one, only, correct and authoritative pie division system.
 
-The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism for dynamic and adaptive division of the pie.
+Velupillai Prabhakaran became the military front of the Tamil people to fight for their right piece of the pie.  They wanted a separate state — their own pice of land — for them to rule.  The movement was eventually crushed in 2009.  The problem remained.
+
+The ultimate solution, however, is to move away from class identity and celebrate individual uniqueness.  No matter which ethnic or other group you come from, you need to be treated fairly.  That requires a certain kind of culture — democratic liberalism coupled with market capitalism for dynamic and adaptive division of the pie.
 
 In the end, however, life is much more than _just pie_.
 
