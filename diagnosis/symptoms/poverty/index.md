@@ -12,5 +12,7 @@ Buddhism is capitalist.  You’re born to rich parents because you accrued good 
 
 We have been dancing on a floor that is not merely crooked, but has no foundation at all.  Greed has driven our policies and culture.  Our education has not taught ethics or philosophy to the population.  Our left leaning politics has kept us on a materialistic footing.  You could make money by hook or by crook.  No wonder we are in this mess.
 
+As a result, we have a few powerful rich.  The poor quality of education has resulted in a slavish middle class that is hardly entrepreneurial.  The majority of the people are poor.
+
 If we are going to be fair to everyone, we have to adopt a utilitarian approach.  You can earn money for your contribution to society.  You should also have the freedom to decide how you want to contribute to society.  You need liberal democracy with market capitalism.
 
