@@ -12,6 +12,7 @@
 | Economics | [Capitalism](capitalism) | [Socialism](socialism) |
 | Attitude | [Fitness](fitness) | [Vulnerability](vulnerability) |
 | Focus | [Futurism](futurism) | [Nostalgia](nostalgia) |
+| Worldview | [Globalism](globalism) | [Nationalism](nationalism) |
 | Value | [Freedom](freedom) | [Control](control) |
 
 
