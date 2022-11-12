@@ -8,9 +8,9 @@ India and Sri Lanka were partial to Russia and played the non-aligned card for s
 
 Our old aristocracy had embraced leftist politics and the SLFP and the SLPP are still partial to the left.  The SLPP gains its strength from China.  Wrong footwork.
 
-Buddhism is capitalist.  You’re born to rich parents because you accrued good Karma in a past life.  Marxism is against private property.  The two ideologies do not mix.  If you think they do, that is called delusion.
+Buddhism is capitalist.  If you are born to rich parents,  it is because you accrued good Karma in a past life.  Marxism is against private property.  The two ideologies do not mix.  If you think they do, that is called delusion.
 
-We have been dancing on a floor that is not merely crooked, but has no foundation at all.  Greed has driven our policies and culture.  Our education has not taught ethics or philosophy to the population.  Our left leaning politics has kept us on a materialistic footing.  You could make money by hook or by crook.  No wonder we are in this mess.
+We have been dancing on a floor that is not merely crooked, but has no foundation at all.  Greed has driven our policies and culture.  Our education has not taught ethics or philosophy to the population.  Our universities teach that the purpose of politics is to capture power — to impose your favorite political ideology on the people.  They have ignored ideology in favor of greed. Our left leaning politics has kept us on a materialistic footing.  You could make money by hook or by crook.  No wonder we are in this mess.
 
 As a result, we have a few powerful rich.  The poor quality of education has resulted in a slavish middle class that is hardly entrepreneurial.  The majority of the people are poor.
 
