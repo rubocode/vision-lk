@@ -12,7 +12,7 @@ Rohana Wijeweera — influenced by Russian thinking — explained the situation 
 
 President J.R.&nbsp;Jayewardene had introduced the open economy concept and enabled the accrual of power by the entrepreneurial class.  The film **Gam Peraliya** comes to mind.  These reforms enabled a transition from the old guard.  However, it was not necessarily the educated class that became the entrepreneurial class.
 
-Today, as it has been for at least the last few decades, even a well educated youth has not much promise of a bright future.  It may be the case that an education doesn’t provide the enablement to the youth because of cultural or feudal old guard dynamics.  More interestingly, it may be the case that our education system is limited in depth and breadth to actually enable the individual scholar to be a significant player in society.
+Today, as it has been for at least the last few decades, even a well educated youth has not much promise of a bright future.  It may be the case that an education doesn’t provide the enablement to the youth because of cultural or feudal old guard dynamics.  More interestingly, it may be the case that our education system is limited in depth and breadth to actually enable the individual scholar to be a significant player in society.  Our education seems to be mere vocational training.
 
 Either way, the youth are frustrated.
 
