@@ -12,7 +12,7 @@ Buddhism is capitalist.  If you are born to rich parents,  it is because you acc
 
 We have been dancing on a floor that is not merely crooked, but has no foundation at all.  Greed has driven our policies and culture.  Our education has not taught ethics or philosophy to the population.  Our universities teach that the purpose of politics is to capture power — to impose your favorite political ideology on the people.  They have ignored ideology in favor of greed. Our left leaning politics has kept us on a materialistic footing.  There believe that there is no God, so you could make money by hook or by crook.  No wonder we are in this mess.
 
-As a result, we have a few powerful rich.  The poor quality of education has resulted in a slavish middle class that is hardly entrepreneurial.  The majority of the people are poor.
+As a result, we have a few powerful rich.  The poor quality of education has resulted in a powerless and slavish middle class that is hardly entrepreneurial.  The majority of the people are poor.
 
 If we are going to be fair to everyone, we have to adopt a utilitarian approach.  You can earn money for your contribution to society.  You should also have the freedom to decide how you want to contribute to society.  You need liberal democracy with market capitalism.
 
