@@ -2,6 +2,9 @@
 
 ## Essential Ideologies
 
+> I would rather work for an invisible God than a visible dictator.  
+> **Ruchira Bomiriya**
+
 | **Category** | **Democratic** | **Totalitarian** |
 | - | - | 
 | Sovereignty | [Individualism](individualism) | [Collectivism](collectivism) |
