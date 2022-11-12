@@ -10,7 +10,7 @@ Our old aristocracy had embraced leftist politics and the SLFP and the SLPP are 
 
 Buddhism is capitalist.  If you are born to rich parents,  it is because you accrued good Karma in a past life.  Marxism is against private property.  The two ideologies do not mix.  If you think they do, that is called delusion.
 
-We have been dancing on a floor that is not merely crooked, but has no foundation at all.  Greed has driven our policies and culture.  Our education has not taught ethics or philosophy to the population.  Our universities teach that the purpose of politics is to capture power — to impose your favorite political ideology on the people.  They have ignored ideology in favor of greed. Our left leaning politics has kept us on a materialistic footing.  There believe that there is no God, so you could make money by hook or by crook.  No wonder we are in this mess.
+We have been dancing on a floor that is not merely crooked, but has no foundation at all.  Greed has driven our policies and culture.  Our education has not taught ethics or philosophy to the population.  Our universities teach that the purpose of politics is to capture power — to impose your favorite political ideology on the people.  They have ignored ideology in favor of greed. Our left leaning politics has kept us on a materialistic footing.  They believe that there is no God, so you could make money by hook or by crook as long as you can get away with it.  No wonder we are in this mess.
 
 As a result, we have a few powerful rich.  The poor quality of education has resulted in a powerless and slavish middle class that is hardly entrepreneurial.  The majority of the people are poor.
 
