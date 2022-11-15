@@ -14,6 +14,8 @@ We have been dancing on a floor that is not merely crooked, but has no foundatio
 
 Our left leaning politics has kept us on a materialistic footing.  They believe that there is no God, so you could make money by hook or by crook as long as you can get away with it.  As a result, we have a few powerful rich.  The poor quality of education has resulted in a powerless and slavish middle class that is hardly entrepreneurial.  The majority of the people are poor.
 
-If we are going to be fair to everyone, we have to adopt a utilitarian approach.  You can earn money for your contribution to society.  You should also have the freedom to decide how you want to contribute to society.  You need liberal democracy with market capitalism.  The French Revolution has not happened here yet.
+If we are going to be fair to everyone, we have to adopt a utilitarian approach.  You can earn money for your contribution to society.  You should also have the freedom to decide how you want to contribute to society.  You need liberal democracy with market capitalism.
+
+The French Revolution has not happened here yet.
 
 
