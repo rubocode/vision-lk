@@ -2,8 +2,6 @@
 
 ## Accountability
 
-### Creating Awareness
-
-### Consensus Building
-
-### Agreement
+* [Creating Awareness](awareness)
+* [Building Consensus](consensus)
+* [Social Contract](contract)
