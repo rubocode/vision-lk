@@ -6,7 +6,7 @@
 > විස්සාසා පරමා ඤාතී, නිබ්බානං පරමං සුඛං  
 > Health is the best gain; contentment is the best wealth;   
 > A trusted friend is the best kinsman; and Nibbana is the highest happiness.  
-> **The Dhammapada, Verse 204**
+> **Dhammapada, Verse 204**
 
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.  
 > **Matthew 6:33 KJV**
