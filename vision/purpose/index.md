@@ -4,8 +4,8 @@
 
 > ආරෝග්‍යා පරමා ලාභා, සන්තුට්ඨී පරමං ධනං  
 > විස්සාසා පරමා ඤාතී, නිබ්බානං පරමං සුඛං  
-> Health is the best gain; contentment is the best wealth;   
-> A trusted friend is the best kinsman; and Nibbana is the highest happiness.  
+> Health is the ultimate gain; contentment is the ultimate wealth;   
+> A trusted friend is the ultimate kinsman; and Nibbana is the ultimate happiness.  
 > **Dhammapada, Verse 204**
 
 > But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.  
