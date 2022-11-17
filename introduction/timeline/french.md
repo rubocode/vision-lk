@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![liberty](../photos/liberty.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## French Revolution (1789)
 

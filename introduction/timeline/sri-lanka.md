@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![flag-lk](../photos/flag-lk.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Sri Lanka
 

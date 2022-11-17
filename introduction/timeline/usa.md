@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![flag-us](../photos/flag-us.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## USA
 

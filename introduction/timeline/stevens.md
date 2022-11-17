@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![graduation](../photos/graduation.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Stevens Institute of Technology
 
