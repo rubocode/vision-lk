@@ -1,5 +1,7 @@
 > [remedies](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Identity
 
 > The meaning of life is to find your gift.
