@@ -1,4 +1,3 @@
-> This is a work in progress…  
 > [ruboware](/) \| [contact](/ruchira-bomiriya)
 
 ![banner](/vision-lk/photos/banner.png)
