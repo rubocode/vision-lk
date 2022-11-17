@@ -1,5 +1,7 @@
 > [fundamentals](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Hunters and Farmers
 
 > **EXCERPT**  

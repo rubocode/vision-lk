@@ -1,5 +1,7 @@
 > [vision](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Peace
 
 > සබ්බපාපස්ස අකරණං, කුසලස්ස උපසම්පදා   

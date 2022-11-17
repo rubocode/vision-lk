@@ -1,5 +1,7 @@
 > [foundation](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Functional Meritocracy
 
 * Entrepreneurial Culture

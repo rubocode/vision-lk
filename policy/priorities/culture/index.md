@@ -1,5 +1,7 @@
 > [priorities](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Positive Culture
 
 * Hearts and Minds

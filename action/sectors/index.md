@@ -1,5 +1,7 @@
 > [action](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Sector Development
 
 > Organizational effectiveness does not lie in that narrow minded concept called rationality.  

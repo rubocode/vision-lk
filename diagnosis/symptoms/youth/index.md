@@ -1,5 +1,7 @@
 > [symptoms](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Youth Unrest
 
 We have been an agricultural society for ages.  At the time we gained independence in 1948, the British had established an economy built around tea, rubber and coconut.  Even after we gained independence, Prime Minister D.S.&nbsp;Senanayake focused himself on expanding infrastructure and land utilization for agriculture.

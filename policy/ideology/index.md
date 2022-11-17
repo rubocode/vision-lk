@@ -1,5 +1,7 @@
 > [policy](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Ideological Clarity
 
 Make the decision to go with these choices and not their opposites.  Then don’t look back!

@@ -1,5 +1,7 @@
 > [symptoms](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Ethnic Separatism
 
 In cultures that are primarily _individualist_, each person is considered _unique_.  In _collectivist_ cultures,  each person is considered as part of a _group_, _tribe_ or _class_ through which they derive their _identity_.  When the flourishing of the individual is not supported, people resort to _group bargaining_ as both _offense_ and _defense_.  These group affiliations can be quite arbitrary and situational.  It may be that all teachers or engineers group together to make demands based on their area of occupation.

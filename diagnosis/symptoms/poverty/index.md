@@ -1,5 +1,7 @@
 > [symptoms](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Poverty Aggravation
 
 Poverty is a problem that is in the domain of distribution of wealth.  This is an area where ideologies that are dramatically opposed are vying for dominance.  Our choice of the ideology even drives our international relations and diplomacy.

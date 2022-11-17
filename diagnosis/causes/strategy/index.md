@@ -1,5 +1,7 @@
 > [causes](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Strategy
 
 > Instead of trying to be popular, try to be excellent.  

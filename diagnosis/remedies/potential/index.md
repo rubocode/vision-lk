@@ -1,5 +1,7 @@
 > [remedies](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Potential
 
 > Sri Lanka, a taste of paradise.  

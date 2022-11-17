@@ -1,5 +1,7 @@
 > [causes](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Vision
 
 > For we walk by faith, not by sight.  

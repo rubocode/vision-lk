@@ -1,5 +1,7 @@
 > [causes](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Management
 
 > You can't let your failures define you.  

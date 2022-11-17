@@ -1,5 +1,7 @@
 > [fundamentals](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## The Kernel of Good Strategy
 
 > **EXCERPT**  

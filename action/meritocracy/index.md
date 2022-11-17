@@ -1,5 +1,7 @@
 > [action](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Functional Meritocracy
 
 > “Fransisco, you're some kind of very high nobility, aren't you?"  

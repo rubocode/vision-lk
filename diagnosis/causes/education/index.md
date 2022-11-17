@@ -1,5 +1,7 @@
 > [causes](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Education
 
 > චේතනාහං භික්ඛවේ කම්මං වදාමි.  

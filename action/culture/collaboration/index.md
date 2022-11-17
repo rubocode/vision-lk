@@ -1,5 +1,7 @@
 > [culture](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Collaboration
 
 > It is teamwork that remains the ultimate competitive

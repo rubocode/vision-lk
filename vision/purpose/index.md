@@ -1,5 +1,7 @@
 > [vision](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Purpose
 
 > ආරෝග්‍යා පරමා ලාභා, සන්තුට්ඨී පරමං ධනං  

@@ -1,5 +1,7 @@
 > [causes](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Leadership
 
 > The supreme quality of leadership is integrity.  

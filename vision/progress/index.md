@@ -1,5 +1,7 @@
 > [vision](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Progress
 
 > Poverty is the parent of crime and revolution.  

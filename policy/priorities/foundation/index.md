@@ -1,5 +1,6 @@
 > [priorities](../)
 
+![banner](/vision-lk/photos/banner.png)
 
 ## Robust Foundation
 

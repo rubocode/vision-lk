@@ -1,5 +1,7 @@
 > [policy](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Accountability
 
 * [Creating Awareness](awareness)

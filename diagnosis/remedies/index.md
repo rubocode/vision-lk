@@ -1,5 +1,7 @@
 > [diagnosis](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Remedies
 
 > Change will not come if we wait for some other person or some other time.

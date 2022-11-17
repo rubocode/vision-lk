@@ -1,5 +1,7 @@
 > [policy](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Guiding Principles
 
 > The purpose of life is to find peace, freedom and liberation.  

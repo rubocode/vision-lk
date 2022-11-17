@@ -1,5 +1,6 @@
 > [foundation](../)
 
+![banner](/vision-lk/photos/banner.png)
 
 ## Credible Justice
 
