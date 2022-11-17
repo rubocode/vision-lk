@@ -7,6 +7,6 @@ Every individual benefits by consciously engaging in the following practices.  A
 * [Leadership](leadership)
 * [Education](education)
 * [Management](management)
-* [Entrepreneurship](entrepreneurship)
+* [Innovation](innovation)
 * [Spirituality](spirituality)
 * [Governance](governance)
