@@ -4,8 +4,8 @@
 
 ## Fundamentals
 
-> Resistance to the organized mass can be effected only by the man who is as well organized in his individuality as the mass itself.  
-> **Carl Gustav Jung**
+> Simplicity is the ultimate sophistication.  
+> **Leonardo Da Vinci**
 
 * [The Kernel of Good Strategy](kernel)
 * [Hunters and Farmers](hunters)
