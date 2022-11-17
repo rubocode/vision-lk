@@ -1,6 +1,6 @@
 > [memories](./)
 
-![insight](../photos/classification.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Insight
 

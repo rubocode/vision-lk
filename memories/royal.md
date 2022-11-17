@@ -1,6 +1,6 @@
 > [memories](./)
 
-![royal](../photos/it-day.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Royal College
 

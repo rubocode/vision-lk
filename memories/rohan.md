@@ -1,6 +1,6 @@
 > [memories](./)
 
-![rohan](photos/rohan.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Rohan Gunaratna
 
