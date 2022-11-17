@@ -9,5 +9,3 @@
 
 * [The Kernel of Good Strategy](kernel)
 * [Hunters and Farmers](hunters)
-* [The Elements of Good Governance](governance)
-* [Elements of Systems](systems)

@@ -1,3 +1,0 @@
-> [essentials](../)
-
-## Principles

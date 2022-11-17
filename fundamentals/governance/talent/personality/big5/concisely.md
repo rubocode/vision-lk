@@ -1,3 +1,0 @@
-> [big5](./)
-
-## Concisely
