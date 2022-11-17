@@ -1,7 +1,7 @@
 > This is a work in progress…  
 > [ruboware](/) \| [contact](/ruchira-bomiriya)
 
-![banner](photos/banner.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Vision Sri Lanka
 

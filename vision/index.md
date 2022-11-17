@@ -1,5 +1,7 @@
 > [home](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Vision
 
 > **ETHICAL DEVELOPMENT™**  

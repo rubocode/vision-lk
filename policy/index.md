@@ -1,5 +1,7 @@
 > [home](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Guiding Policy
 
 > Govern a great nation as you would cook a small fish.  

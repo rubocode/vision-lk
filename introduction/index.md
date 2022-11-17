@@ -1,6 +1,6 @@
 > [home](../)
 
-![peace](../photos/peace.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Introduction
 

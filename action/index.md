@@ -1,5 +1,7 @@
 > [home](../)
 
+![banner](/vision-lk/photos/banner.png)
+
 ## Coherent Action
 
 > The greater the difficulty, the more glory in surmounting it.  

@@ -1,6 +1,6 @@
 > [home](../)
 
-![memories](../photos/french.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Memories
 
