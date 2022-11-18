@@ -11,5 +11,3 @@
 * [Causes](causes)
 * [Remedies](remedies)
 
-An accurate diagnosis of our crisis and challenges goes a long way in our efforts to make corrections.
-
