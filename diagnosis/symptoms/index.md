@@ -4,6 +4,9 @@
 
 ## Symptoms
 
+> There are only two mistakes one can make along the road to truth; not going all the way, and not starting.  
+> **Buddha**
+
 The problems are indicative of inequities affecting disadvantaged social segments.  Instead of minor improvements to the most troubled, a visionary social balance needs to be cultivated with a long term perspective.  The meritocracy needs to be designed deliberately and nurtured with great care.
 
 * [Ethnic Separatism](ethnicity)
