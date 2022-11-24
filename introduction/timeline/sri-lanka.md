@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![banner](/vision-lk/photos/banner.png)
+![knuckles](../photos/knuckles-mp.png)
 
 ## Sri Lanka
 

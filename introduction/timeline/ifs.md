@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![banner](/vision-lk/photos/banner.png)
+![xrd](../photos/xrd-mp.png)
 
 ## Institute of Fundamental Studies (IFS)
 

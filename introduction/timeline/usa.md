@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![banner](/vision-lk/photos/banner.png)
+![cathy](../photos/cathy-mp.png)
 
 ## USA
 

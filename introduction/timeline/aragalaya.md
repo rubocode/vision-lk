@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![banner](/vision-lk/photos/banner.png)
+![galleface](../photos/galleface-mp.png)
 
 ## Aragalaya
 

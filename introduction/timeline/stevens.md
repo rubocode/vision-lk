@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![banner](/vision-lk/photos/banner.png)
+![stevens-92](../photos/stevens92-mp.png)
 
 ## Stevens Institute of Technology
 

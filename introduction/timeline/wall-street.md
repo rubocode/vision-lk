@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![banner](/vision-lk/photos/banner.png)
+![ssb](../photos/ssb.png)
 
 ## Wall Street
 
