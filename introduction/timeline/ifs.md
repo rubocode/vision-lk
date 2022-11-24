@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![xrd](../photos/xrd-mp.png)
+![mv7800](../photos/mv7800-mp.png)
 
 ## Institute of Fundamental Studies (IFS)
 
