@@ -4,7 +4,7 @@
 
 ## Timeline
 
-> If you are working on something exciting that you really care about, you don't have to be pushed.  
+> If you are working on something exciting that you really care about, you don't have to be pushed.
 > The vision pulls you.  
 > **Steve Jobs**
 
