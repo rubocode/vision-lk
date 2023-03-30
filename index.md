@@ -1,4 +1,4 @@
-> [profile](/ruchira-bomiriya) &bull; [ruboware](/)
+> [ruboware](/) &bull; [profile](/ruchira-bomiriya)
 
 ![banner](/vision-lk/photos/banner.png)
 
