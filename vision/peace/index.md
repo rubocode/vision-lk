@@ -6,8 +6,7 @@
 
 > සබ්බපාපස්ස අකරණං, කුසලස්ස උපසම්පදා   
 > සචිත්ත පරියෝදපනං, ඒතං බුද්ධානුසාසනං  
-> “Refraining from all evil; attainment of what is good; cleansing of one’s thoughts”;  
-> This is the advice of the Awakened Ones.  
+> Refraining from all evil; attainment of what is good; cleansing of one’s thoughts;  This is the advice of the Awakened Ones.  
 > **The Dhammapada, Verse 183**
 
 > Depart from evil and do good;  
