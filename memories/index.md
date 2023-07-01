@@ -8,7 +8,6 @@
 > Ask what you can do for your country.  
 > **John F. Kennedy**
 
-* [Royal College](royal)
 * [Institute of Fundamental Studies](ifs)
 * [Rohan Gunaratna](rohan)
 * [Autograph](autograph)
