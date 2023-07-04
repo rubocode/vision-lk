@@ -6,4 +6,4 @@
 
 * Independence of Judiciary
 * Efficient Court System
-* Bribery and Corruption
+* Freedom from Bribery and Corruption
