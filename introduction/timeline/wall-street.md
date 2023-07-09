@@ -1,6 +1,6 @@
 > [timeline](./)
 
-![ssb](../photos/ssb.png)
+![salomon](../photos/salomon.png)
 
 ## Wall Street
 
