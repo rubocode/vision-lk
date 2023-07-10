@@ -4,7 +4,6 @@
 
 ## Hunters and Farmers
 
-> **EXCERPT**  
 > Hunting in a Farmer’s World:
 > _Celebrating the Mind of an Entrepreneur_;
 > Chapter 1  
