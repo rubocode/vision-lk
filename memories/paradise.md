@@ -1,4 +1,4 @@
-> [introduction](./)
+> [memories](./)
 
 ![paradise](photos/paradise.png)
 
