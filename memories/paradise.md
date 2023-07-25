@@ -4,5 +4,5 @@
 
 ## Paradise
 
-> Sri Lanka, A taste of paradise!  
+> Sri Lanka: A taste of paradise!  
 > **Air Lanka**
