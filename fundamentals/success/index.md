@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/strategy/photos/banner.png)
+![banner](/vision-lk/photos/banner.png)
 
 ## Success
 
