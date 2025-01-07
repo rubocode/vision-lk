@@ -1,4 +1,4 @@
-> [home](/)
+> [home](/governance)
 
 ![banner](/vision-lk/photos/banner.png)
 
