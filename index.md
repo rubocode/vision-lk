@@ -1,4 +1,4 @@
-> [home](/)
+> [home](/governance)
 
 ![banner](/vision-lk/photos/banner.png)
 
@@ -14,4 +14,3 @@
 * [Vision](vision)
 * [Guiding Policy](policy)
 * [Coherent Action](action)
-
