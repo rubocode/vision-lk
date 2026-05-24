@@ -1,4 +1,4 @@
-> [home](/governance)
+> [home](/philosophy)
 
 ![banner](/vision-lk/photos/banner.png)
 
